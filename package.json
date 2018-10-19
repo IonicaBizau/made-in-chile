@@ -64,7 +64,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2925,6 +2926,453 @@
               "[@jbkunst](https://github.com/jbkunst)/[**intro-r-workshop**](https://github.com/jbkunst/intro-r-workshop)",
               "Presentación introducción al uso de R",
               "[:arrow_upper_right:](http://jkunst.com/intro-r-workshop/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1024",
+              "[@michelson](https://github.com/michelson)/[**lazy_high_charts**](https://github.com/michelson/lazy_high_charts)",
+              "Make highcharts a la ruby , works in rails 4.X / 3.X, and other ruby web frameworks",
+              "[:arrow_upper_right:](http://www.suipit.com)"
+            ],
+            [
+              "393",
+              "[@clbustos](https://github.com/clbustos)/[**statsample**](https://github.com/clbustos/statsample)",
+              "A suite for basic and advanced statistics on Ruby.",
+              "[:arrow_upper_right:](http://github.com/clbustos/statsample)"
+            ],
+            [
+              "225",
+              "[@clbustos](https://github.com/clbustos)/[**rubyvis**](https://github.com/clbustos/rubyvis)",
+              "Ruby version of Protovis, a visualization toolkit.",
+              "[:arrow_upper_right:](http://rubyvis.rubyforge.org/)"
+            ],
+            [
+              "135",
+              "[@clbustos](https://github.com/clbustos)/[**rinruby**](https://github.com/clbustos/rinruby)",
+              "Ruby library that integrates the R interpreter in Ruby, making R's statistical routines and graphics available within Ruby.",
+              "[:arrow_upper_right:](http://rinruby.ddahl.org/)"
+            ],
+            [
+              "125",
+              "[@michelson](https://github.com/michelson)/[**chaskiq**](https://github.com/michelson/chaskiq)",
+              "Newsletter Rails engine",
+              "[:arrow_upper_right:](http://michelson.github.io/chaskiq/)"
+            ],
+            [
+              "123",
+              "[@clbustos](https://github.com/clbustos)/[**distribution**](https://github.com/clbustos/distribution)",
+              "Statistical Distributions multi library wrapper. Uses Ruby by default and C (statistics2/GSL) or Java extensions where available.",
+              ""
+            ],
+            [
+              "118",
+              "[@clbustos](https://github.com/clbustos)/[**Rserve-Ruby-client**](https://github.com/clbustos/Rserve-Ruby-client)",
+              "Pure Ruby client for Rserve. Based on  'new' Java client provided with server, but with modifications to adhere to POLS",
+              "[:arrow_upper_right:](http://github.com/clbustos/Rserve-Ruby-client)"
+            ],
+            [
+              "109",
+              "[@pacuna](https://github.com/pacuna)/[**dckerize**](https://github.com/pacuna/dckerize)",
+              "Supercharged Rails development using Docker containers",
+              ""
+            ],
+            [
+              "102",
+              "[@michelson](https://github.com/michelson)/[**BigBroda**](https://github.com/michelson/BigBroda)",
+              "GoogleBig Query ActiveRecord Adapter & API client",
+              ""
+            ],
+            [
+              "62",
+              "[@pacuna](https://github.com/pacuna)/[**partitionable**](https://github.com/pacuna/partitionable)",
+              "Seamless PostgreSQL date partitioning for your Rails models",
+              ""
+            ],
+            [
+              "42",
+              "[@pacuna](https://github.com/pacuna)/[**frappe_charts**](https://github.com/pacuna/frappe_charts)",
+              "Frappé Charts Ruby gem for Rails.",
+              ""
+            ],
+            [
+              "31",
+              "[@clbustos](https://github.com/clbustos)/[**extendmatrix**](https://github.com/clbustos/extendmatrix)",
+              "Cosmin Bonchis's enhancements to the Ruby \"Vector\" and \"Matrix\" module and includes: LU and QR (Householder, Givens, Gram Schmidt, Hessenberg) decompositions, bidiagonalization, eigenvalue and eigenvector calculations. Work on Ruby 1.8.7, 1.9.1 and 1.9.2 (SVN version)",
+              "[:arrow_upper_right:](http://rubyforge.org/projects/matrix/)"
+            ],
+            [
+              "22",
+              "[@michelson](https://github.com/michelson)/[**lazy_google_analytic…**](https://github.com/michelson/lazy_google_analytics)",
+              "google analytics api client for the lazy",
+              ""
+            ],
+            [
+              "18",
+              "[@clbustos](https://github.com/clbustos)/[**minimization**](https://github.com/clbustos/minimization)",
+              "Minimization algorithms on pure Ruby",
+              "[:arrow_upper_right:](http://github.com/clbustos/minimization)"
+            ],
+            [
+              "15",
+              "[@nelyj](https://github.com/nelyj)/[**xlsx_to_json**](https://github.com/nelyj/xlsx_to_json)",
+              "Convert xlsx to json with ruby",
+              ""
+            ],
+            [
+              "15",
+              "[@clbustos](https://github.com/clbustos)/[**integration**](https://github.com/clbustos/integration)",
+              "Integration methods, based on original work by Beng",
+              ""
+            ],
+            [
+              "12",
+              "[@clbustos](https://github.com/clbustos)/[**svg-graph**](https://github.com/clbustos/svg-graph)",
+              "SVG:::Graph is a pure Ruby library for generating charts, which are a type of graph where the values of one axis are not scalar. SVG::Graph has a verry similar API to the Perl library SVG::TT::Graph, and the resulting charts also look the same. This isn't surprising, because SVG::Graph started as a loose port of SVG::TT::Graph, although the internal code no longer resembles the Perl original at all.",
+              "[:arrow_upper_right:](http://www.germane-software.com/software/SVG/SVG::Graph/)"
+            ],
+            [
+              "11",
+              "[@michelson](https://github.com/michelson)/[**detached-carrot**](https://github.com/michelson/detached-carrot)",
+              "A port of SimplifiedStarling plugin for push-pop active_record tasks with RabbitMQ",
+              ""
+            ],
+            [
+              "9",
+              "[@nelyj](https://github.com/nelyj)/[**yapo.cl**](https://github.com/nelyj/yapo.cl)",
+              "Esto es una copia de yapo.cl",
+              ""
+            ],
+            [
+              "8",
+              "[@nelyj](https://github.com/nelyj)/[**bsale**](https://github.com/nelyj/bsale)",
+              "Ruby Client Library for Bsale API",
+              ""
+            ],
+            [
+              "8",
+              "[@michelson](https://github.com/michelson)/[**acts_as_uploaded**](https://github.com/michelson/acts_as_uploaded)",
+              "a simple rails plugin for upload_nginx module and amazon s3 service, inspired in attachment_fu, (work in progress but in production in artenlinea.com)",
+              ""
+            ],
+            [
+              "8",
+              "[@lporras](https://github.com/lporras)/[**jasmine-fixtures-gen…**](https://github.com/lporras/jasmine-fixtures-generator)",
+              "Fixture loader for Jasmine on Rails 3.x and RSpec 2.x or Functional Tests",
+              ""
+            ],
+            [
+              "8",
+              "[@lporras](https://github.com/lporras)/[**Notes**](https://github.com/lporras/Notes)",
+              "Rails 3.1 App that creates sticky notes. Example of using BackboneJs",
+              ""
+            ],
+            [
+              "7",
+              "[@nelyj](https://github.com/nelyj)/[**soga**](https://github.com/nelyj/soga)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@ronzalo](https://github.com/ronzalo)/[**spree_sales**](https://github.com/ronzalo/spree_sales)",
+              "Spree extension to add sales prices to products",
+              "[:arrow_upper_right:](https://spreesaledemo.herokuapp.com/sale)"
+            ],
+            [
+              "7",
+              "[@nelyj](https://github.com/nelyj)/[**arriendala.cl**](https://github.com/nelyj/arriendala.cl)",
+              "arriendala.cl es una plataforma inmobiliaria que encuentra alternativas para que puedas vivir o arrendar de acuerdo a las cosas que más te gustan y frecuentas. No busques más, deja que que las propiedades te encuentren a tí.",
+              "[:arrow_upper_right:](http://www.arriendala.cl)"
+            ],
+            [
+              "6",
+              "[@gnapse](https://github.com/gnapse)/[**incomplete_date**](https://github.com/gnapse/incomplete_date)",
+              "Allows a Rails application to store and manage incomplete date data.",
+              "[:arrow_upper_right:](http://my.opera.com/gnapse)"
+            ],
+            [
+              "6",
+              "[@pacuna](https://github.com/pacuna)/[**rails-microservices-…**](https://github.com/pacuna/rails-microservices-on-coreos-example)",
+              "rails microservices on top of CoreOS example",
+              ""
+            ],
+            [
+              "6",
+              "[@nelyj](https://github.com/nelyj)/[**clase_todo**](https://github.com/nelyj/clase_todo)",
+              "Clase de Ruby on Rails - Introductoria 3 de Diciembre",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**catastrofe_2017**](https://github.com/nelyj/catastrofe_2017)",
+              "App para ayudar por catastrofes de Chile 2017",
+              "[:arrow_upper_right:](https://catastrofe2017.herokuapp.com/)"
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**fetavi**](https://github.com/nelyj/fetavi)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**botillerias_core**](https://github.com/nelyj/botillerias_core)",
+              "API para encontrar botillerias cercanas a tu ubicación.  Estoy aprendiendo a hacer mobiles app so necesito saber como comunicarme con ella.",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**proyecto_taller_sede…**](https://github.com/nelyj/proyecto_taller_sede_renca)",
+              "Este es el proyecto del taller de RoR para la sede de Inacap Renca",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**company-orders-probl…**](https://github.com/nelyj/company-orders-problem)",
+              "Posible solución al problema de relaciones entre compañia/sucursales/cuentas/orden de pedido",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**budget-by-feature**](https://github.com/nelyj/budget-by-feature)",
+              "Budget by feature. Made with :heart: by developers for developers",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**senado_chile**](https://github.com/nelyj/senado_chile)",
+              "Obten información del Senado de Chile como tramitaciones, senadores, leyes, votaciones, etc. Todo esto en formato JSON",
+              "[:arrow_upper_right:](https://nelyj.github.io/senado_chile/)"
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**example_rails**](https://github.com/nelyj/example_rails)",
+              "asdasdasdasd",
+              ""
+            ],
+            [
+              "5",
+              "[@gnapse](https://github.com/gnapse)/[**redis-attrs**](https://github.com/gnapse/redis-attrs)",
+              "A module that allows Ruby objects to define attributes backed by a Redis data store. Works with any class or ORM.",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**monit_example**](https://github.com/nelyj/monit_example)",
+              "This is a repository with example for use monit with Rails",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**api_on_rails_test_pe…**](https://github.com/nelyj/api_on_rails_test_performance)",
+              "Tests for API on Rails performance for differents techniques. ",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**HTMLtoExcel**](https://github.com/nelyj/HTMLtoExcel)",
+              "Convert table html to excel with Ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**e-commerce**](https://github.com/nelyj/e-commerce)",
+              "Website for e-commerce",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**senado-chile-timelin…**](https://github.com/nelyj/senado-chile-timeline)",
+              "This is an app to do match between laws passed, entered and current news in Chile. This is a open source project, feel free to contributed.",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**example-aws**](https://github.com/nelyj/example-aws)",
+              "Example for deploy in AWS with Rails + Unicorn",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**blog_carlos**](https://github.com/nelyj/blog_carlos)",
+              "Blog de ejemplo para Carlos",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**new_supboat**](https://github.com/nelyj/new_supboat)",
+              "SUPBOARD new version ",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**comienzatunegocio**](https://github.com/nelyj/comienzatunegocio)",
+              "Buscador de nombres para empresas con dominios .cl",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**todo**](https://github.com/nelyj/todo)",
+              " RoR: Simple ToDo application with Rspec and Capybara settings (App for my blog post)",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**actioncable-notifica…**](https://github.com/nelyj/actioncable-notification)",
+              "Building example with Devise+Notification+ActionCable / Rails 5",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**solarity**](https://github.com/nelyj/solarity)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@nelyj](https://github.com/nelyj)/[**market_place_api**](https://github.com/nelyj/market_place_api)",
+              "Market place exercise for Rails API",
+              ""
+            ],
+            [
+              "5",
+              "[@clbustos](https://github.com/clbustos)/[**gsl_narray_stdlib_co…**](https://github.com/clbustos/gsl_narray_stdlib_comparison)",
+              "Compare perfomance of GSL, Narray and stdlib Matrix on matrix and vectors operations",
+              ""
+            ],
+            [
+              "4",
+              "[@nelyj](https://github.com/nelyj)/[**taller_rails_devconc…**](https://github.com/nelyj/taller_rails_devconchile)",
+              "Aquí estan todos los archivos relacionados al taller (Proyecto Rails, Presentación y Mockups)",
+              ""
+            ],
+            [
+              "4",
+              "[@clbustos](https://github.com/clbustos)/[**statsample-sem**](https://github.com/clbustos/statsample-sem)",
+              "Structural Equation Modeling on Ruby, using statsample and R",
+              "[:arrow_upper_right:](http://github.com/clbustos/statsample-sem)"
+            ],
+            [
+              "4",
+              "[@ronzalo](https://github.com/ronzalo)/[**spree_quick_view**](https://github.com/ronzalo/spree_quick_view)",
+              "Add quick view feature to products listing",
+              ""
+            ],
+            [
+              "4",
+              "[@nelyj](https://github.com/nelyj)/[**fbs**](https://github.com/nelyj/fbs)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@leosoto](https://github.com/leosoto)/[**intro_ruby**](https://github.com/leosoto/intro_ruby)",
+              "Codigo para introducción rápida a Ruby",
+              ""
+            ],
+            [
+              "4",
+              "[@nelyj](https://github.com/nelyj)/[**mercadocamiones**](https://github.com/nelyj/mercadocamiones)",
+              "Venta y compra de camiones",
+              ""
+            ],
+            [
+              "3",
+              "[@clbustos](https://github.com/clbustos)/[**exner**](https://github.com/clbustos/exner)",
+              "Create structural summary for Rorschach Comprehensive System. Works with  Znudic method for Zulliger test, based on Exner's RCS.",
+              ""
+            ],
+            [
+              "3",
+              "[@dokshor](https://github.com/dokshor)/[**guru_guru**](https://github.com/dokshor/guru_guru)",
+              "Transforma el texto que quieras a el lenguaje de Guru Guru. Cajago coñjiecuañggue",
+              ""
+            ],
+            [
+              "3",
+              "[@rbrto](https://github.com/rbrto)/[**Rails-Ansible**](https://github.com/rbrto/Rails-Ansible)",
+              "Ansible para configurar todo mi entorno en producción de forma automatizada",
+              ""
+            ],
+            [
+              "3",
+              "[@michelson](https://github.com/michelson)/[**needish-gem**](https://github.com/michelson/needish-gem)",
+              "this gem provides basic methods to access needish.com api, profile, friends, needs and helps",
+              ""
+            ],
+            [
+              "3",
+              "[@michelson](https://github.com/michelson)/[**discobolo**](https://github.com/michelson/discobolo)",
+              "ruby worker system for disque",
+              ""
+            ],
+            [
+              "3",
+              "[@clbustos](https://github.com/clbustos)/[**buhos**](https://github.com/clbustos/buhos)",
+              "Web based systematic literature review software",
+              ""
+            ],
+            [
+              "3",
+              "[@dbarrientos](https://github.com/dbarrientos)/[**gmaps_g6**](https://github.com/dbarrientos/gmaps_g6)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@michelson](https://github.com/michelson)/[**apidone-client**](https://github.com/michelson/apidone-client)",
+              "api done client made in ruby (coding) dojo",
+              ""
+            ],
+            [
+              "2",
+              "[@lporras](https://github.com/lporras)/[**torquebox-example-ga…**](https://github.com/lporras/torquebox-example-gallery)",
+              "Example of multi uploaders with rails and torquebox",
+              ""
+            ],
+            [
+              "2",
+              "[@pacuna](https://github.com/pacuna)/[**disqus-random-commen…**](https://github.com/pacuna/disqus-random-comment)",
+              "Get a random comment from a Disqus thread",
+              ""
+            ],
+            [
+              "2",
+              "[@michelson](https://github.com/michelson)/[**faye-tests**](https://github.com/michelson/faye-tests)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dgattoni](https://github.com/dgattoni)/[**streetmusicmap**](https://github.com/dgattoni/streetmusicmap)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@leosoto](https://github.com/leosoto)/[**bank_scraper**](https://github.com/leosoto/bank_scraper)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@clbustos](https://github.com/clbustos)/[**dirty-memoize**](https://github.com/clbustos/dirty-memoize)",
+              "Like Memoize, but designed for mutable and parametizable objects",
+              ""
             ]
           ]
         }

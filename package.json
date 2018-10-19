@@ -69,7 +69,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -3550,6 +3551,39 @@
               "2",
               "[@Doxdrum](https://github.com/Doxdrum)/[**usm-thesis**](https://github.com/Doxdrum/usm-thesis)",
               "This is an attempt to create a LaTeX template for Thesis presented at the Universidad Tecnica Federico Santa Maria (or USM or UTFSM).",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@smancill](https://github.com/smancill)/[**conky-syntax.vim**](https://github.com/smancill/conky-syntax.vim)",
+              "Vim syntax highlighting for conkyrc files",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=1367)"
+            ],
+            [
+              "6",
+              "[@smancill](https://github.com/smancill)/[**Vim_config**](https://github.com/smancill/Vim_config)",
+              "My Vim configuration",
+              ""
+            ],
+            [
+              "2",
+              "[@Sh1ken](https://github.com/Sh1ken)/[**.dotfiles**](https://github.com/Sh1ken/.dotfiles)",
+              "my configs-",
               ""
             ]
           ]

@@ -58,7 +58,8 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -2180,6 +2181,27 @@
               "2",
               "[@matiasah](https://github.com/matiasah)/[**onet**](https://github.com/matiasah/onet)",
               "ONET - Object Oriented Networking Library for LÖVE",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@domingomery](https://github.com/domingomery)/[**Balu**](https://github.com/domingomery/Balu)",
+              "Toolbox Balu",
               ""
             ]
           ]

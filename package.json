@@ -61,7 +61,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -2319,6 +2320,243 @@
               "[@huguei](https://github.com/huguei)/[**dnssec**](https://github.com/huguei/dnssec)",
               "Some dnssec scripts",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "31",
+              "[@rodrigore](https://github.com/rodrigore)/[**laravel-vue-admin**](https://github.com/rodrigore/laravel-vue-admin)",
+              "Laravel Vue Admin",
+              ""
+            ],
+            [
+              "20",
+              "[@rodrigore](https://github.com/rodrigore)/[**turbolinks-demo-lara…**](https://github.com/rodrigore/turbolinks-demo-laravel)",
+              "Laravel 5.2 Demo using turbolinks 5",
+              ""
+            ],
+            [
+              "14",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**RetinaImages**](https://github.com/dospuntocero/RetinaImages)",
+              "Retina images for amazing responsiveness in silverstripe 3!",
+              ""
+            ],
+            [
+              "13",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**doarticles**](https://github.com/dospuntocero/doarticles)",
+              "Dataobject as Pages Module for silverstripe 3",
+              ""
+            ],
+            [
+              "12",
+              "[@devswert](https://github.com/devswert)/[**LaCrud**](https://github.com/devswert/LaCrud)",
+              "CRUD helper for Laravel",
+              ""
+            ],
+            [
+              "9",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**CustomerQuestions**](https://github.com/dospuntocero/CustomerQuestions)",
+              "CustomerQuestions is a SS3 dashboard module that is in charge of your Basic Contact Form",
+              ""
+            ],
+            [
+              "7",
+              "[@ctala](https://github.com/ctala)/[**InstitucionesFinanci…**](https://github.com/ctala/InstitucionesFinancierasChile)",
+              "Base de datos de las instituciones financieras de Chile basada en la información del SBIF",
+              ""
+            ],
+            [
+              "7",
+              "[@felipelavinz](https://github.com/felipelavinz)/[**GutenPress**](https://github.com/felipelavinz/GutenPress)",
+              "An OOP toolset for WordPress",
+              "[:arrow_upper_right:](http://felipelavinz.github.io/GutenPress)"
+            ],
+            [
+              "6",
+              "[@christiansalazar](https://github.com/christiansalazar)/[**omf**](https://github.com/christiansalazar/omf)",
+              "Object Modeling Framework (OMF), a framework for handling objects and relationships. Available for pure PHP and Yii Framework. Portable to other languages (comming soon).  (PLEASE USE THE BRANCH: \"minimal\", THIS PROJECT STILL RUNS SLOW, IS UNDER DEVELOPMENT)",
+              ""
+            ],
+            [
+              "5",
+              "[@mayeco](https://github.com/mayeco)/[**drupal-composer-edit…**](https://github.com/mayeco/drupal-composer-edition)",
+              "A Drupal 8 Composer Edition (plus Docker)",
+              ""
+            ],
+            [
+              "5",
+              "[@halles](https://github.com/halles)/[**events-manager-exten…**](https://github.com/halles/events-manager-extended-frontend-submit)",
+              "A WordPress plugin that extends the Events Manager Extended (EME) plugin, letting users submit events from the frontend of the site",
+              ""
+            ],
+            [
+              "4",
+              "[@mayeco](https://github.com/mayeco)/[**sfOpenIdOAuth**](https://github.com/mayeco/sfOpenIdOAuth)",
+              "Symfony 1 app to login and sign up users using openid/oauth (Obsolete)",
+              ""
+            ],
+            [
+              "4",
+              "[@villalon](https://github.com/villalon)/[**reservasalas**](https://github.com/villalon/reservasalas)",
+              "Moodle plugin for booking study rooms and class rooms",
+              ""
+            ],
+            [
+              "4",
+              "[@rodrigore](https://github.com/rodrigore)/[**sii_chile**](https://github.com/rodrigore/sii_chile)",
+              "Port de la gema sii_chile https://github.com/sagmor/sii_chile",
+              ""
+            ],
+            [
+              "3",
+              "[@devswert](https://github.com/devswert)/[**dolly**](https://github.com/devswert/dolly)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**PieceMaker-for-silve…**](https://github.com/dospuntocero/PieceMaker-for-silverstripe)",
+              "3d slideshow for silverstripe",
+              ""
+            ],
+            [
+              "3",
+              "[@christiansalazar](https://github.com/christiansalazar)/[**jamboree**](https://github.com/christiansalazar/jamboree)",
+              "an html layout builder similar to GWT (google web toolkit). using Jamboree you can easily create html layouts using pure php core object oriented.",
+              ""
+            ],
+            [
+              "3",
+              "[@mayeco](https://github.com/mayeco)/[**GoogleBundle**](https://github.com/mayeco/GoogleBundle)",
+              "Symfony Bundle for Google OAuth and Adwords API",
+              ""
+            ],
+            [
+              "3",
+              "[@ctala](https://github.com/ctala)/[**WooMercadoPagosChile**](https://github.com/ctala/WooMercadoPagosChile)",
+              "Sistema de pagos para Chile usando Mercado Pagos.",
+              ""
+            ],
+            [
+              "3",
+              "[@pviojo](https://github.com/pviojo)/[**transantiago-api**](https://github.com/pviojo/transantiago-api)",
+              "Wrapper API Transantiago for PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@shikadiqueen](https://github.com/shikadiqueen)/[**weldyn**](https://github.com/shikadiqueen/weldyn)",
+              "Wesnoth forums codebase.",
+              ""
+            ],
+            [
+              "3",
+              "[@rodrigore](https://github.com/rodrigore)/[**php-flight-example**](https://github.com/rodrigore/php-flight-example)",
+              "Example using Flight router, twig template, eloquent, phinx migrations",
+              ""
+            ],
+            [
+              "2",
+              "[@felipelavinz](https://github.com/felipelavinz)/[**wp-cli-post-term-com…**](https://github.com/felipelavinz/wp-cli-post-term-command)",
+              "Manage post terms with WP CLI",
+              ""
+            ],
+            [
+              "2",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**DOStore**](https://github.com/dospuntocero/DOStore)",
+              "Simple Cart addon for DOArticles",
+              ""
+            ],
+            [
+              "2",
+              "[@halles](https://github.com/halles)/[**bootkick**](https://github.com/halles/bootkick)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@villalon](https://github.com/villalon)/[**emarking**](https://github.com/villalon/emarking)",
+              "Moodle plugin which goes in mod/",
+              ""
+            ],
+            [
+              "2",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**langbuilder**](https://github.com/dospuntocero/langbuilder)",
+              "terminal lang builder for silverstripe3 that creates en.yml files",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**RedisEnableBundle**](https://github.com/mayeco/RedisEnableBundle)",
+              "Symfony Bundle for Redis",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**SkrillPSP**](https://github.com/mayeco/SkrillPSP)",
+              "Skrill.com PHP Library",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**fPDFBundle**](https://github.com/mayeco/fPDFBundle)",
+              "FPDF v1.7 Bundle for Symfony",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**MayecoPostBundle**](https://github.com/mayeco/MayecoPostBundle)",
+              "MayecoPostBundle",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**InvoicesBundle**](https://github.com/mayeco/InvoicesBundle)",
+              "Create invoices from 2Checkout notifications",
+              ""
+            ],
+            [
+              "2",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**addThis**](https://github.com/dospuntocero/addThis)",
+              "addThis module for silverstripe 3",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**BaseBundle**](https://github.com/mayeco/BaseBundle)",
+              "Symfony Base Bundle",
+              ""
+            ],
+            [
+              "2",
+              "[@dospuntocero](https://github.com/dospuntocero)/[**uploadfield-frontend**](https://github.com/dospuntocero/uploadfield-frontend)",
+              "very alpha implementation of uploadfield for front end use. DO NOT USE",
+              ""
+            ],
+            [
+              "2",
+              "[@mayeco](https://github.com/mayeco)/[**EasyAnnotationBundle**](https://github.com/mayeco/EasyAnnotationBundle)",
+              "Symfony Bundle for Annotations",
+              ""
+            ],
+            [
+              "2",
+              "[@quest](https://github.com/quest)/[**cakephp-environment**](https://github.com/quest/cakephp-environment)",
+              "Environment Plugin for CakePHP",
+              "[:arrow_upper_right:](http://quest.github.io/cakephp-environment/)"
             ]
           ]
         }

@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1091,6 +1092,165 @@
             [
               "2",
               "[@EstebanFuentealba](https://github.com/EstebanFuentealba)/[**SGSSO**](https://github.com/EstebanFuentealba/SGSSO)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "698",
+              "[@asystat](https://github.com/asystat)/[**Final-Android-Resize…**](https://github.com/asystat/Final-Android-Resizer)",
+              "A simple yet powerful resizer for Android Image resources",
+              ""
+            ],
+            [
+              "345",
+              "[@coyarzun89](https://github.com/coyarzun89)/[**FabTransitionActivit…**](https://github.com/coyarzun89/FabTransitionActivity)",
+              "Example of fab animation",
+              ""
+            ],
+            [
+              "31",
+              "[@Darkona](https://github.com/Darkona)/[**AdventureBackpack2**](https://github.com/Darkona/AdventureBackpack2)",
+              "Remaking the mod",
+              ""
+            ],
+            [
+              "29",
+              "[@gmazzo](https://github.com/gmazzo)/[**okhttp-client-mock**](https://github.com/gmazzo/okhttp-client-mock)",
+              "A simple OKHttp client mock, using a programmable request interceptor",
+              ""
+            ],
+            [
+              "15",
+              "[@justomiguel](https://github.com/justomiguel)/[**libProg**](https://github.com/justomiguel/libProg)",
+              "Java Lib to open and handle files",
+              ""
+            ],
+            [
+              "13",
+              "[@justomiguel](https://github.com/justomiguel)/[**tsp2016**](https://github.com/justomiguel/tsp2016)",
+              "Carpeta de Ejercicios TSP",
+              ""
+            ],
+            [
+              "8",
+              "[@tolmachevroman](https://github.com/tolmachevroman)/[**AcraSlack**](https://github.com/tolmachevroman/AcraSlack)",
+              "Sample project for Android Studio showing how to implement ACRA and Slack integration",
+              ""
+            ],
+            [
+              "8",
+              "[@gmazzo](https://github.com/gmazzo)/[**gocd-build-watcher-p…**](https://github.com/gmazzo/gocd-build-watcher-plugin)",
+              "A GoCD notification plugin which sends direct emails and Slack messages to the person who breaks a build",
+              ""
+            ],
+            [
+              "6",
+              "[@Kodehawa](https://github.com/Kodehawa)/[**imageboard-api**](https://github.com/Kodehawa/imageboard-api)",
+              "Simple asynchronous API wrapper around the most popular danbooru-compatible imageboard APIs.",
+              ""
+            ],
+            [
+              "5",
+              "[@pabloaraya](https://github.com/pabloaraya)/[**mapudungun-android**](https://github.com/pabloaraya/mapudungun-android)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@gmazzo](https://github.com/gmazzo)/[**android-nestedscroll…**](https://github.com/gmazzo/android-nestedscroll-maps)",
+              "Nested scroll (CoordinatorLayout, AppBarLayout and CollapsingToolbarLayout) support for Google Maps fragments",
+              ""
+            ],
+            [
+              "4",
+              "[@Pefaur](https://github.com/Pefaur)/[**cordova-examples**](https://github.com/Pefaur/cordova-examples)",
+              "A collection of Cordova Examples",
+              ""
+            ],
+            [
+              "4",
+              "[@Psep](https://github.com/Psep)/[**html4j**](https://github.com/Psep/html4j)",
+              "API Java para generar código html",
+              ""
+            ],
+            [
+              "3",
+              "[@pabloaraya](https://github.com/pabloaraya)/[**chat-android-example**](https://github.com/pabloaraya/chat-android-example)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@lezorich](https://github.com/lezorich)/[**directSiding-Android**](https://github.com/lezorich/directSiding-Android)",
+              "Aplicación Android que facilita el acceso al Sistema de Información de la Escuela de Ingeniería de la Pontificia Universidad Católica.",
+              ""
+            ],
+            [
+              "2",
+              "[@jbovet](https://github.com/jbovet)/[**webpay-soap**](https://github.com/jbovet/webpay-soap)",
+              "Ejemplo de Integración servicio webpay-soap",
+              ""
+            ],
+            [
+              "2",
+              "[@hcarrasc](https://github.com/hcarrasc)/[**Hgemoves**](https://github.com/hcarrasc/Hgemoves)",
+              "Menu bar application for mac osx, which lets you know if you have pending movements in daily games played on Chess.com",
+              ""
+            ],
+            [
+              "2",
+              "[@gmazzo](https://github.com/gmazzo)/[**gs.kotlin.extensions…**](https://github.com/gmazzo/gs.kotlin.extensions.demo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@edwinperaza](https://github.com/edwinperaza)/[**GridImageSearch**](https://github.com/edwinperaza/GridImageSearch)",
+              "Android App using Custom Search Engine (Google) to search images",
+              ""
+            ],
+            [
+              "2",
+              "[@lezorich](https://github.com/lezorich)/[**Ok-Volley**](https://github.com/lezorich/Ok-Volley)",
+              "A combination of Square's OkHttp client and Volley Networking toolkit for Android. It also has Gson integrated and other small features, like a persistent cookie store.",
+              ""
+            ],
+            [
+              "2",
+              "[@justomiguel](https://github.com/justomiguel)/[**testMobile**](https://github.com/justomiguel/testMobile)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@justomiguel](https://github.com/justomiguel)/[**Clapsy**](https://github.com/justomiguel/Clapsy)",
+              "Repositorio creado para reproducir los algoritmos en pseudocodigo en tiempo real a JAVA",
+              ""
+            ],
+            [
+              "2",
+              "[@asystat](https://github.com/asystat)/[**Frapi**](https://github.com/asystat/Frapi)",
+              "Semantic Android Application for newspaper comparison",
+              ""
+            ],
+            [
+              "2",
+              "[@gmazzo](https://github.com/gmazzo)/[**java-techtalk**](https://github.com/gmazzo/java-techtalk)",
               "",
               ""
             ]

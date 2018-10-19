@@ -56,7 +56,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -2034,6 +2035,63 @@
               "2",
               "[@douglasmakey](https://github.com/douglasmakey)/[**golang_api**](https://github.com/douglasmakey/golang_api)",
               "A RESTful application boilerplate in Go using Echo + gorm with PostgreSQL and more.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "153",
+              "[@jdnavarro](https://github.com/jdnavarro)/[**graphql-haskell**](https://github.com/jdnavarro/graphql-haskell)",
+              "Haskell GraphQL implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@jdnavarro](https://github.com/jdnavarro)/[**pipes-p2p**](https://github.com/jdnavarro/pipes-p2p)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@dmw](https://github.com/dmw)/[**ApacheLogRev**](https://github.com/dmw/ApacheLogRev)",
+              "Apache Stats Log Reviser",
+              "[:arrow_upper_right:](http://coder.cl/products/logrev/)"
+            ],
+            [
+              "3",
+              "[@jdnavarro](https://github.com/jdnavarro)/[**tasty-lens**](https://github.com/jdnavarro/tasty-lens)",
+              "Tasty TestTrees for Lens validation",
+              ""
+            ],
+            [
+              "2",
+              "[@dmw](https://github.com/dmw)/[**dmw-programando-org**](https://github.com/dmw/dmw-programando-org)",
+              "My solutions for www.programando.org programming contests",
+              ""
+            ],
+            [
+              "2",
+              "[@jdnavarro](https://github.com/jdnavarro)/[**smallcheck-series**](https://github.com/jdnavarro/smallcheck-series)",
+              "Orphan Series/CoSeries instances for common types",
+              ""
+            ],
+            [
+              "2",
+              "[@jdnavarro](https://github.com/jdnavarro)/[**pipes-errors**](https://github.com/jdnavarro/pipes-errors)",
+              "Integration between pipes and errors",
               ""
             ]
           ]

@@ -62,7 +62,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -2557,6 +2558,249 @@
               "[@quest](https://github.com/quest)/[**cakephp-environment**](https://github.com/quest/cakephp-environment)",
               "Environment Plugin for CakePHP",
               "[:arrow_upper_right:](http://quest.github.io/cakephp-environment/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "231",
+              "[@gepd](https://github.com/gepd)/[**Deviot**](https://github.com/gepd/Deviot)",
+              "Sublime Text plugin for IoT development based in PlatformIO ecosystem (Arduino IDE)",
+              ""
+            ],
+            [
+              "211",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**simple-crypt**](https://github.com/andrewcooke/simple-crypt)",
+              "Simple, secure encryption and decryption for Python 2.7 and 3",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/simple-crypt)"
+            ],
+            [
+              "35",
+              "[@adderou](https://github.com/adderou)/[**telegram-forward-bot**](https://github.com/adderou/telegram-forward-bot)",
+              "Simple Telegram Bot for forwarding messages easily between various related channels and groups.",
+              ""
+            ],
+            [
+              "34",
+              "[@ppizarror](https://github.com/ppizarror)/[**pygame-menu**](https://github.com/ppizarror/pygame-menu)",
+              "Menu for pygame, simple, lightweight and easy to use",
+              "[:arrow_upper_right:](http://ppizarror.com/pygame-menu/)"
+            ],
+            [
+              "25",
+              "[@pedroburon](https://github.com/pedroburon)/[**tbk**](https://github.com/pedroburon/tbk)",
+              "Python implementation of Transbank's Webpay protocol",
+              "[:arrow_upper_right:](http://pedroburon.info/tbk)"
+            ],
+            [
+              "23",
+              "[@aaossa](https://github.com/aaossa)/[**Computer-Security-Al…**](https://github.com/aaossa/Computer-Security-Algorithms)",
+              "Problems related to computer security. Algorithms written in Python. Learn more: https://id0-rsa.pub/",
+              ""
+            ],
+            [
+              "22",
+              "[@gepd](https://github.com/gepd)/[**uPiotMicroPythonTool**](https://github.com/gepd/uPiotMicroPythonTool)",
+              "MicroPython Sublime Text Plugin",
+              ""
+            ],
+            [
+              "19",
+              "[@pedroburon](https://github.com/pedroburon)/[**dotenv**](https://github.com/pedroburon/dotenv)",
+              "python .env file handler",
+              ""
+            ],
+            [
+              "15",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**simple-enum**](https://github.com/andrewcooke/simple-enum)",
+              "A simpler Enum for Python 3.",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/simple-enum)"
+            ],
+            [
+              "15",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**simple-date**](https://github.com/andrewcooke/simple-date)",
+              "A wrapper around the datetime, pytz and tzlocal packages for Python 3.2+",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/simple-date)"
+            ],
+            [
+              "14",
+              "[@hackingcl](https://github.com/hackingcl)/[**dateador**](https://github.com/hackingcl/dateador)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@rbonvall](https://github.com/rbonvall)/[**python-ptable**](https://github.com/rbonvall/python-ptable)",
+              "Table class for pretty-printing tabular data",
+              ""
+            ],
+            [
+              "10",
+              "[@dansanti](https://github.com/dansanti)/[**l10n_cl_dte**](https://github.com/dansanti/l10n_cl_dte)",
+              "Facturación electrónica chilena para Odoo ( Directo SII)",
+              "[:arrow_upper_right:](http://globalresponse.cl/)"
+            ],
+            [
+              "9",
+              "[@aaossa](https://github.com/aaossa)/[**flask-openshift**](https://github.com/aaossa/flask-openshift)",
+              "Simple Flask template for OpenShift v2 (v2 is deprecated :cry:)",
+              ""
+            ],
+            [
+              "8",
+              "[@falconsoft3d](https://github.com/falconsoft3d)/[**odoo-constructor-mod…**](https://github.com/falconsoft3d/odoo-constructor-module)",
+              "Constructor de Módulo de Odoo",
+              ""
+            ],
+            [
+              "8",
+              "[@rbonvall](https://github.com/rbonvall)/[**python-boxea**](https://github.com/rbonvall/python-boxea)",
+              "ASCII-art to Unicode box-drawing characters converter",
+              ""
+            ],
+            [
+              "7",
+              "[@ppizarror](https://github.com/ppizarror)/[**Ned-For-Spod**](https://github.com/ppizarror/Ned-For-Spod)",
+              "Juego de carreras en 2D desarrollado en python-pygame",
+              "[:arrow_upper_right:](http://ppizarror.com/Ned-For-Spod/)"
+            ],
+            [
+              "7",
+              "[@nebil](https://github.com/nebil)/[**bilbot**](https://github.com/nebil/bilbot)",
+              ":robot: Bilbot, el bot (casi) inteligente",
+              ""
+            ],
+            [
+              "7",
+              "[@dpineiden](https://github.com/dpineiden)/[**async_multiprocessin…**](https://github.com/dpineiden/async_multiprocessing)",
+              "A python example with asyncio, multiprocessing. Running with many process in an executor",
+              ""
+            ],
+            [
+              "6",
+              "[@jaabell](https://github.com/jaabell)/[**gmshtranslator**](https://github.com/jaabell/gmshtranslator)",
+              "A simple python parser for gmsh .msh files",
+              ""
+            ],
+            [
+              "6",
+              "[@hackingcl](https://github.com/hackingcl)/[**patente**](https://github.com/hackingcl/patente)",
+              "Obtener información detallada sobre una patente",
+              ""
+            ],
+            [
+              "5",
+              "[@yangcht](https://github.com/yangcht)/[**radex_emcee**](https://github.com/yangcht/radex_emcee)",
+              "RADEX+emcee, LVG modelling with a MCMC approach, used in arXiv: 1709.04740",
+              ""
+            ],
+            [
+              "5",
+              "[@raliste](https://github.com/raliste)/[**Flaskito**](https://github.com/raliste/Flaskito)",
+              "A starter for Flesk big-application wanters, with a bit of Cython too!",
+              ""
+            ],
+            [
+              "5",
+              "[@aaossa](https://github.com/aaossa)/[**Telegram-bot-in-Open…**](https://github.com/aaossa/Telegram-bot-in-OpenShift)",
+              "3 console commands + 3 Telegram messages + 1 url = A Telegram bot  (OpenShift v2 is deprecated 😢)",
+              ""
+            ],
+            [
+              "4",
+              "[@vkhemlan](https://github.com/vkhemlan)/[**BolsaTrabajo**](https://github.com/vkhemlan/BolsaTrabajo)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ppizarror](https://github.com/ppizarror)/[**readme-generator**](https://github.com/ppizarror/readme-generator)",
+              "Generate a README.md file from a configuration file",
+              "[:arrow_upper_right:](http://ppizarror.com/readme-generator/)"
+            ],
+            [
+              "4",
+              "[@dansanti](https://github.com/dansanti)/[**payment_webpay**](https://github.com/dansanti/payment_webpay)",
+              "Pasarela de Pagos Webpay para Odoo ",
+              "[:arrow_upper_right:](http://globalresponse.cl/)"
+            ],
+            [
+              "4",
+              "[@agucova](https://github.com/agucova)/[**haveibeenpwned-pytho…**](https://github.com/agucova/haveibeenpwned-python)",
+              "A simple python client for the HaveIBeenPwned API 2.0",
+              ""
+            ],
+            [
+              "3",
+              "[@dansanti](https://github.com/dansanti)/[**l10n_co_fe**](https://github.com/dansanti/l10n_co_fe)",
+              "Facturación electrónica colombiana para Odoo",
+              "[:arrow_upper_right:](https://globalresponse.cl)"
+            ],
+            [
+              "3",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**id3img**](https://github.com/andrewcooke/id3img)",
+              "A simple web server that provides album art to MPDroid.",
+              "[:arrow_upper_right:](http://www.acooke.org/cute/CoverArtfo0.html)"
+            ],
+            [
+              "3",
+              "[@hackingcl](https://github.com/hackingcl)/[**findshell**](https://github.com/hackingcl/findshell)",
+              "Buscando posibles backdoors en nuestro servidor",
+              ""
+            ],
+            [
+              "2",
+              "[@agucova](https://github.com/agucova)/[**g-assistant-mac**](https://github.com/agucova/g-assistant-mac)",
+              "An awfully coded client for the Google Assistant SDK for MacOS.",
+              ""
+            ],
+            [
+              "2",
+              "[@ppizarror](https://github.com/ppizarror)/[**Hero-of-Antair**](https://github.com/ppizarror/Hero-of-Antair)",
+              "Proyecto RPG en 2D creado con python-tkinter",
+              "[:arrow_upper_right:](http://ppizarror.com/Hero-of-Antair/)"
+            ],
+            [
+              "2",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**uykfg**](https://github.com/andrewcooke/uykfg)",
+              "An mpd client that uses EchoNest",
+              ""
+            ],
+            [
+              "2",
+              "[@andrewcooke](https://github.com/andrewcooke)/[**pytyp**](https://github.com/andrewcooke/pytyp)",
+              "Pythonic type metadata; declarative JSON and YAML transcoding.",
+              ""
+            ],
+            [
+              "2",
+              "[@juanu](https://github.com/juanu)/[**CompMicroGenom**](https://github.com/juanu/CompMicroGenom)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dansanti](https://github.com/dansanti)/[**global_discount**](https://github.com/dansanti/global_discount)",
+              "Descuento Global",
+              ""
+            ],
+            [
+              "2",
+              "[@pedroburon](https://github.com/pedroburon)/[**python-envtools**](https://github.com/pedroburon/python-envtools)",
+              "Python toolchain for environment variables use",
+              ""
             ]
           ]
         }

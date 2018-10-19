@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1253,6 +1254,141 @@
               "[@gmazzo](https://github.com/gmazzo)/[**java-techtalk**](https://github.com/gmazzo/java-techtalk)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "170",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**DbExtensions**](https://github.com/maxtoroq/DbExtensions)",
+              "Data-access framework with a strong focus on query composition, granularity and code aesthetics.",
+              "[:arrow_upper_right:](http://maxtoroq.github.io/DbExtensions/)"
+            ],
+            [
+              "47",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**MvcCodeRouting**](https://github.com/maxtoroq/MvcCodeRouting)",
+              "Namespace-based Modularity for ASP.NET MVC and Web API",
+              ""
+            ],
+            [
+              "27",
+              "[@pctroll](https://github.com/pctroll)/[**unity3d-music-visual…**](https://github.com/pctroll/unity3d-music-visualizer)",
+              "Code base for a music visualizer in Unity3D",
+              "[:arrow_upper_right:](http://youtu.be/DCrsXBiw33I)"
+            ],
+            [
+              "22",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**MvcAccount**](https://github.com/maxtoroq/MvcAccount)",
+              "Authentication and Account Management plugin for ASP.NET MVC",
+              ""
+            ],
+            [
+              "16",
+              "[@jose-villegas](https://github.com/jose-villegas)/[**FurRendering**](https://github.com/jose-villegas/FurRendering)",
+              "Fur rendering in Unity with Shell Texturing",
+              ""
+            ],
+            [
+              "15",
+              "[@SonryP](https://github.com/SonryP)/[**VitaView**](https://github.com/SonryP/VitaView)",
+              "Use your Android Phone as a Ps Vita Screen (with RinCheat)",
+              ""
+            ],
+            [
+              "14",
+              "[@SonryP](https://github.com/SonryP)/[**VitaMote**](https://github.com/SonryP/VitaMote)",
+              "Use your Ps Vita as an Android Controller",
+              ""
+            ],
+            [
+              "10",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**myxsl**](https://github.com/maxtoroq/myxsl)",
+              "*myxsl* helps you integrate XPath-based languages such as XSLT, XQuery, Schematron with your .NET code",
+              ""
+            ],
+            [
+              "8",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**MvcPages**](https://github.com/maxtoroq/MvcPages)",
+              "MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC",
+              ""
+            ],
+            [
+              "4",
+              "[@pctroll](https://github.com/pctroll)/[**ai4g-unity-ai-for-ga…**](https://github.com/pctroll/ai4g-unity-ai-for-games)",
+              "Unity implementation of the algorithms in the book Artificial Intelligence For Games, by Millington and Funge",
+              ""
+            ],
+            [
+              "4",
+              "[@ZoserLock](https://github.com/ZoserLock)/[**unity-guiskin-editor**](https://github.com/ZoserLock/unity-guiskin-editor)",
+              "A custom inspector  for Unity GUISkin files.",
+              ""
+            ],
+            [
+              "3",
+              "[@ZoserLock](https://github.com/ZoserLock)/[**unity-ugui-examples**](https://github.com/ZoserLock/unity-ugui-examples)",
+              "A set of examples of Unity GUI (ugui).",
+              ""
+            ],
+            [
+              "3",
+              "[@ZoserLock](https://github.com/ZoserLock)/[**keyboard-unchatter**](https://github.com/ZoserLock/keyboard-unchatter)",
+              "Application to fix the keyboard chattering of mechanical switches",
+              ""
+            ],
+            [
+              "3",
+              "[@fsateler](https://github.com/fsateler)/[**gettext-cs-utils**](https://github.com/fsateler/gettext-cs-utils)",
+              "C# i18n Gettext Utilities",
+              "[:arrow_upper_right:](http://code.google.com/p/gettext-cs-utils/)"
+            ],
+            [
+              "2",
+              "[@DaPipex](https://github.com/DaPipex)/[**Ensage**](https://github.com/DaPipex/Ensage)",
+              "Because why not?",
+              ""
+            ],
+            [
+              "2",
+              "[@aledev](https://github.com/aledev)/[**ValidadorHuella**](https://github.com/aledev/ValidadorHuella)",
+              "Fingerprint Validation Example using Visual Studio 2010 (C#), XML and DigitalPersona One Touch SDK",
+              ""
+            ],
+            [
+              "2",
+              "[@jose-villegas](https://github.com/jose-villegas)/[**Morphological-Operat…**](https://github.com/jose-villegas/Morphological-Operations)",
+              "Takes on: https://github.com/jose-villegas/Edge-De… but now provides morphological operations and image trimming. Image loader and editor using C# provides morphological operations, edge detection, free rotation, mirror, negative, threshold, brightness/contrast, scaling, etc ",
+              ""
+            ],
+            [
+              "2",
+              "[@jose-villegas](https://github.com/jose-villegas)/[**WebCamToASCII**](https://github.com/jose-villegas/WebCamToASCII)",
+              "Image processing project, takes direct feed from a image capture device and convert its to ASCII-Art in real time, uses C# and AForge",
+              ""
+            ],
+            [
+              "2",
+              "[@jose-villegas](https://github.com/jose-villegas)/[**Edge-Detection**](https://github.com/jose-villegas/Edge-Detection)",
+              "Image loader and editor using C#, provides edge detection, free rotation, mirror, negative, threshold, brightness/contrast, scaling, etc",
+              ""
+            ],
+            [
+              "2",
+              "[@maxtoroq](https://github.com/maxtoroq)/[**XCST-a**](https://github.com/maxtoroq/XCST-a)",
+              "XCST web pages for ASP.NET",
+              "[:arrow_upper_right:](http://maxtoroq.github.io/XCST/)"
             ]
           ]
         }

@@ -66,7 +66,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -3418,6 +3419,57 @@
               "2",
               "[@fbertra](https://github.com/fbertra)/[**scala-js-chrome-exte…**](https://github.com/fbertra/scala-js-chrome-extension)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "49",
+              "[@jorgicio](https://github.com/jorgicio)/[**jorgicio-gentoo**](https://github.com/jorgicio/jorgicio-gentoo)",
+              "Gentoo Overlay made by Jorgicio.",
+              ""
+            ],
+            [
+              "3",
+              "[@yadickson](https://github.com/yadickson)/[**soapui-debs**](https://github.com/yadickson/soapui-debs)",
+              "Build Debian Package for SoapUI Open Source",
+              ""
+            ],
+            [
+              "2",
+              "[@fichajokers](https://github.com/fichajokers)/[**subir-ionic-play-sto…**](https://github.com/fichajokers/subir-ionic-play-store)",
+              "Bash para subir aplicación Android creada mediante ionic a la Playstore.",
+              ""
+            ],
+            [
+              "2",
+              "[@hermanjunge](https://github.com/hermanjunge)/[**dockerfiles**](https://github.com/hermanjunge/dockerfiles)",
+              ":blue_book: Dockerfiles",
+              ""
+            ],
+            [
+              "2",
+              "[@npulidom](https://github.com/npulidom)/[**alpine-nginx-php**](https://github.com/npulidom/alpine-nginx-php)",
+              "Nginx running in Alpine with PHP 7 (fpm), developed for PHP apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@waflessnet](https://github.com/waflessnet)/[**sii-bash**](https://github.com/waflessnet/sii-bash)",
+              "Autenticacion SII con bash",
               ""
             ]
           ]

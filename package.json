@@ -63,7 +63,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -2801,6 +2802,129 @@
               "[@pedroburon](https://github.com/pedroburon)/[**python-envtools**](https://github.com/pedroburon/python-envtools)",
               "Python toolchain for environment variables use",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "364",
+              "[@jbkunst](https://github.com/jbkunst)/[**highcharter**](https://github.com/jbkunst/highcharter)",
+              "R wrapper for highcharts based on htmlwidgets ",
+              "[:arrow_upper_right:](http://jkunst.com/highcharter/)"
+            ],
+            [
+              "51",
+              "[@jbkunst](https://github.com/jbkunst)/[**rchess**](https://github.com/jbkunst/rchess)",
+              "♛ Chess package for R",
+              "[:arrow_upper_right:](http://jkunst.com/rchess)"
+            ],
+            [
+              "45",
+              "[@jbkunst](https://github.com/jbkunst)/[**r-posts**](https://github.com/jbkunst/r-posts)",
+              "Some R scripts and some R ideas",
+              "[:arrow_upper_right:](http://jkunst.com/)"
+            ],
+            [
+              "41",
+              "[@jbkunst](https://github.com/jbkunst)/[**d3wordcloud**](https://github.com/jbkunst/d3wordcloud)",
+              ":cloud: htmlwidgets for  D3js Word Cloud Layout",
+              "[:arrow_upper_right:](http://rpubs.com/jbkunst/133106)"
+            ],
+            [
+              "39",
+              "[@jbkunst](https://github.com/jbkunst)/[**shiny-apps**](https://github.com/jbkunst/shiny-apps)",
+              "Some ideas",
+              "[:arrow_upper_right:](http://104.140.247.162:3838/shiny-apps/)"
+            ],
+            [
+              "32",
+              "[@jbkunst](https://github.com/jbkunst)/[**R-D3-SNA-Course-Exam…**](https://github.com/jbkunst/R-D3-SNA-Course-Example)",
+              "A simple example using R and D3.js for show the examples of SNA Course in Coursera",
+              "[:arrow_upper_right:](https://rawgit.com/jbkunst/R-D3-SNA-Course-Example/master/index.html)"
+            ],
+            [
+              "16",
+              "[@jbkunst](https://github.com/jbkunst)/[**riskr**](https://github.com/jbkunst/riskr)",
+              "",
+              "[:arrow_upper_right:](http://jbkunst.github.io/riskr/)"
+            ],
+            [
+              "10",
+              "[@hzambran](https://github.com/hzambran)/[**hydroGOF**](https://github.com/hzambran/hydroGOF)",
+              "Goodness-of-fit functions for comparison of simulated and observed hydrological time series",
+              "[:arrow_upper_right:](https://CRAN.R-project.org/package=hydroGOF)"
+            ],
+            [
+              "9",
+              "[@hzambran](https://github.com/hzambran)/[**hydroTSM**](https://github.com/hzambran/hydroTSM)",
+              "Time Series Management, Analysis and Interpolation for Hydrological Modelling",
+              "[:arrow_upper_right:](https://CRAN.R-project.org/package=hydroTSM)"
+            ],
+            [
+              "9",
+              "[@jbkunst](https://github.com/jbkunst)/[**shiny-apps-highchart…**](https://github.com/jbkunst/shiny-apps-highcharter)",
+              "Some highcharter examples",
+              "[:arrow_upper_right:](http://104.140.247.162:3838/shiny-apps-highcharter/)"
+            ],
+            [
+              "7",
+              "[@hzambran](https://github.com/hzambran)/[**hydroPSO**](https://github.com/hzambran/hydroPSO)",
+              "Model-Independent Particle Swarm Optimisation for Environmental Models",
+              "[:arrow_upper_right:](https://cran.r-project.org/package=hydroPSO)"
+            ],
+            [
+              "6",
+              "[@jbkunst](https://github.com/jbkunst)/[**chess-db**](https://github.com/jbkunst/chess-db)",
+              "Scripts for parse pgns files into a sqlite (among other formats) database ",
+              ""
+            ],
+            [
+              "5",
+              "[@hzambran](https://github.com/hzambran)/[**SWAT2R**](https://github.com/hzambran/SWAT2R)",
+              "Input/Output functions for pre- and post-processing SWAT (hydrological model) files in R",
+              "[:arrow_upper_right:](http://www.rforge.net/SWAT2R/)"
+            ],
+            [
+              "3",
+              "[@jbkunst](https://github.com/jbkunst)/[**shiny-dashboard-risk…**](https://github.com/jbkunst/shiny-dashboard-risk-management)",
+              "Just a game",
+              ""
+            ],
+            [
+              "3",
+              "[@jbkunst](https://github.com/jbkunst)/[**flexdashboard-highch…**](https://github.com/jbkunst/flexdashboard-highcharter-examples)",
+              "",
+              "[:arrow_upper_right:](http://jkunst.com/flexdashboard-highcharter-example/)"
+            ],
+            [
+              "2",
+              "[@Bustami](https://github.com/Bustami)/[**DatoFutbol**](https://github.com/Bustami/DatoFutbol)",
+              "The official repository of blog www.datofutbol.cl",
+              ""
+            ],
+            [
+              "2",
+              "[@ricardomayerb](https://github.com/ricardomayerb)/[**macro-theory-UDP**](https://github.com/ricardomayerb/macro-theory-UDP)",
+              "Repository for docs and code, macroeconomic theory course, Universidad Diego Portales, Chile",
+              ""
+            ],
+            [
+              "2",
+              "[@jbkunst](https://github.com/jbkunst)/[**intro-r-workshop**](https://github.com/jbkunst/intro-r-workshop)",
+              "Presentación introducción al uso de R",
+              "[:arrow_upper_right:](http://jkunst.com/intro-r-workshop/)"
             ]
           ]
         }

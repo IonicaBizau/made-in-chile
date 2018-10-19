@@ -68,7 +68,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -3510,6 +3511,45 @@
               "2",
               "[@feliperuzg](https://github.com/feliperuzg)/[**CleanExample**](https://github.com/feliperuzg/CleanExample)",
               "Simple LoginView using MVP and Clean Principles",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@rvmeier](https://github.com/rvmeier)/[**uct-tesis-base**](https://github.com/rvmeier/uct-tesis-base)",
+              "Formato base para tesis de Ingeniería Civil en Informática, Universidad Católica de Temuco",
+              ""
+            ],
+            [
+              "2",
+              "[@leoferres](https://github.com/leoferres)/[**lp1**](https://github.com/leoferres/lp1)",
+              "Programming Language Course @UdeC",
+              ""
+            ],
+            [
+              "2",
+              "[@jantogni](https://github.com/jantogni)/[**memoria**](https://github.com/jantogni/memoria)",
+              "Memoria pregrado",
+              ""
+            ],
+            [
+              "2",
+              "[@Doxdrum](https://github.com/Doxdrum)/[**usm-thesis**](https://github.com/Doxdrum/usm-thesis)",
+              "This is an attempt to create a LaTeX template for Thesis presented at the Universidad Tecnica Federico Santa Maria (or USM or UTFSM).",
               ""
             ]
           ]

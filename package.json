@@ -57,7 +57,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -2092,6 +2093,93 @@
               "2",
               "[@jdnavarro](https://github.com/jdnavarro)/[**pipes-errors**](https://github.com/jdnavarro/pipes-errors)",
               "Integration between pipes and errors",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "90",
+              "[@matiasah](https://github.com/matiasah)/[**shadows**](https://github.com/matiasah/shadows)",
+              "Shädows - A Shadows & Lights engine for löve",
+              ""
+            ],
+            [
+              "16",
+              "[@tangerinagames](https://github.com/tangerinagames)/[**spine-moai**](https://github.com/tangerinagames/spine-moai)",
+              "MOAI runtime for Spine animations",
+              ""
+            ],
+            [
+              "15",
+              "[@matiasah](https://github.com/matiasah)/[**gui**](https://github.com/matiasah/gui)",
+              "Starkkz's GUI for löve",
+              ""
+            ],
+            [
+              "5",
+              "[@ngunsu](https://github.com/ngunsu)/[**lcsis**](https://github.com/ngunsu/lcsis)",
+              "Learning cross-spectral similarity measures with deep convolutional neural networks code",
+              ""
+            ],
+            [
+              "5",
+              "[@matiasah](https://github.com/matiasah)/[**lua-transform**](https://github.com/matiasah/lua-transform)",
+              "A Unity-like transformation class for Lua",
+              ""
+            ],
+            [
+              "4",
+              "[@crowl](https://github.com/crowl)/[**sql2lua**](https://github.com/crowl/sql2lua)",
+              "Generate lua functions from SQL queries",
+              ""
+            ],
+            [
+              "4",
+              "[@matiasah](https://github.com/matiasah)/[**bnet**](https://github.com/matiasah/bnet)",
+              "LuaJIT's FFI port for BNet and LuaSocket",
+              ""
+            ],
+            [
+              "3",
+              "[@tangerinagames](https://github.com/tangerinagames)/[**spine-hanappe**](https://github.com/tangerinagames/spine-hanappe)",
+              "Hanappe/MOAI runtime for Spine (deprecated)",
+              "[:arrow_upper_right:](https://github.com/tangerinagames/spine-moai)"
+            ],
+            [
+              "3",
+              "[@matiasah](https://github.com/matiasah)/[**zip**](https://github.com/matiasah/zip)",
+              "ZIP Library for löve",
+              ""
+            ],
+            [
+              "2",
+              "[@ngunsu](https://github.com/ngunsu)/[**qnet**](https://github.com/ngunsu/qnet)",
+              "Cross-Spectral Local Descriptors via Quadruplet Network",
+              ""
+            ],
+            [
+              "2",
+              "[@darknessfmy](https://github.com/darknessfmy)/[**Servidor_Local_DKS**](https://github.com/darknessfmy/Servidor_Local_DKS)",
+              "Un servidor local pre-configurado por mi, para que los nuevos miembros del equipo Valhallen Ragnarok puedan practicar y adentrarse al mundo de *Athena.",
+              ""
+            ],
+            [
+              "2",
+              "[@matiasah](https://github.com/matiasah)/[**onet**](https://github.com/matiasah/onet)",
+              "ONET - Object Oriented Networking Library for LÖVE",
               ""
             ]
           ]

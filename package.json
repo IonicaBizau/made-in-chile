@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -1481,6 +1482,105 @@
               "[@joseglego](https://github.com/joseglego)/[**joseglego.github.io**](https://github.com/joseglego/joseglego.github.io)",
               "Personal landing page. Using HTML5, Sass, JavaScript/jQuery, Gulp & Eslint",
               "[:arrow_upper_right:](http://joseglego.io/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "473",
+              "[@astroza](https://github.com/astroza)/[**udptunnel**](https://github.com/astroza/udptunnel)",
+              "It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions.",
+              ""
+            ],
+            [
+              "90",
+              "[@kR105-zz](https://github.com/kR105-zz)/[**PS4-dlclose**](https://github.com/kR105-zz/PS4-dlclose)",
+              "Fully implemented dlclose exploit for PS4 fw 1.76 with included linux loader",
+              ""
+            ],
+            [
+              "5",
+              "[@fbarriga](https://github.com/fbarriga)/[**fuse_xattrs**](https://github.com/fbarriga/fuse_xattrs)",
+              "add xattrs support using sidecar files.",
+              ""
+            ],
+            [
+              "4",
+              "[@juanbarrios](https://github.com/juanbarrios)/[**multimedia_tools**](https://github.com/juanbarrios/multimedia_tools)",
+              "Libraries and tools for Multimedia Information Retrieval and Computer Vision.",
+              "[:arrow_upper_right:](http://juan.cl/)"
+            ],
+            [
+              "4",
+              "[@djmasde](https://github.com/djmasde)/[**catwm**](https://github.com/djmasde/catwm)",
+              "catwm is a very simple tiling window manager, fork from pyknite catwm",
+              ""
+            ],
+            [
+              "4",
+              "[@kR105-zz](https://github.com/kR105-zz)/[**cgminer-alt**](https://github.com/kR105-zz/cgminer-alt)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@sudachen](https://github.com/sudachen)/[**python-tool-legacy**](https://github.com/sudachen/python-tool-legacy)",
+              "some python related utilities like py2cc",
+              ""
+            ],
+            [
+              "3",
+              "[@rbasoalto](https://github.com/rbasoalto)/[**sonyremote**](https://github.com/rbasoalto/sonyremote)",
+              "IR Remote Control for MSP430G*",
+              ""
+            ],
+            [
+              "3",
+              "[@astroza](https://github.com/astroza)/[**iomplx**](https://github.com/astroza/iomplx)",
+              "Experimental I/O Multiplexer Library",
+              ""
+            ],
+            [
+              "3",
+              "[@djmasde](https://github.com/djmasde)/[**x9wm-fork**](https://github.com/djmasde/x9wm-fork)",
+              "x9wm-fork is a simple fork of x9wm bassed in w9wm, 9wm, with some changes",
+              ""
+            ],
+            [
+              "3",
+              "[@kR105-zz](https://github.com/kR105-zz)/[**PS4-Bad-IRET**](https://github.com/kR105-zz/PS4-Bad-IRET)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fbarriga](https://github.com/fbarriga)/[**audioscout-fork**](https://github.com/fbarriga/audioscout-fork)",
+              "forked from https://code.google.com/p/audioscout",
+              ""
+            ],
+            [
+              "2",
+              "[@astroza](https://github.com/astroza)/[**monkey**](https://github.com/astroza/monkey)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@TriForceX](https://github.com/TriForceX)/[**JediKnightPlus**](https://github.com/TriForceX/JediKnightPlus)",
+              "Game modification for Jedi Knight 2 Multiplayer with useful and innovative features. (all game versions support)",
+              ""
             ]
           ]
         }

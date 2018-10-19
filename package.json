@@ -65,7 +65,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -3372,6 +3373,51 @@
               "2",
               "[@clbustos](https://github.com/clbustos)/[**dirty-memoize**](https://github.com/clbustos/dirty-memoize)",
               "Like Memoize, but designed for mutable and parametizable objects",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "18",
+              "[@cquiroz](https://github.com/cquiroz)/[**scala-java-locales**](https://github.com/cquiroz/scala-java-locales)",
+              "Implementation of java locale for scala.js",
+              ""
+            ],
+            [
+              "5",
+              "[@rhz](https://github.com/rhz)/[**graph-rewriting**](https://github.com/rhz/graph-rewriting)",
+              "Graph rewriting library for Scala",
+              ""
+            ],
+            [
+              "4",
+              "[@cquiroz](https://github.com/cquiroz)/[**scalajs-react-virtua…**](https://github.com/cquiroz/scalajs-react-virtualized)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@cquiroz](https://github.com/cquiroz)/[**sbt-tzdb**](https://github.com/cquiroz/sbt-tzdb)",
+              "sbt plugin to create custom timezone db files",
+              ""
+            ],
+            [
+              "2",
+              "[@fbertra](https://github.com/fbertra)/[**scala-js-chrome-exte…**](https://github.com/fbertra/scala-js-chrome-extension)",
+              "",
               ""
             ]
           ]

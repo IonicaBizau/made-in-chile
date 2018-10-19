@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1922,6 +1923,117 @@
               "2",
               "[@polymeris](https://github.com/polymeris)/[**game-of-ur**](https://github.com/polymeris/game-of-ur)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "66",
+              "[@douglasmakey](https://github.com/douglasmakey)/[**ursho**](https://github.com/douglasmakey/ursho)",
+              "URL Shortener Service in Go",
+              ""
+            ],
+            [
+              "60",
+              "[@aledbf](https://github.com/aledbf)/[**kube-keepalived-vip**](https://github.com/aledbf/kube-keepalived-vip)",
+              "Kubernetes Virtual IP address/es using keepalived",
+              ""
+            ],
+            [
+              "26",
+              "[@douglasmakey](https://github.com/douglasmakey)/[**go-fcm**](https://github.com/douglasmakey/go-fcm)",
+              "Firebase Cloud Messaging library written in Go",
+              ""
+            ],
+            [
+              "12",
+              "[@douglasmakey](https://github.com/douglasmakey)/[**tracking**](https://github.com/douglasmakey/tracking)",
+              "A geospatial tracking service with Go and Redis",
+              ""
+            ],
+            [
+              "10",
+              "[@aledbf](https://github.com/aledbf)/[**ingress-controller**](https://github.com/aledbf/ingress-controller)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@douglasmakey](https://github.com/douglasmakey)/[**envi**](https://github.com/douglasmakey/envi)",
+              "Environment vars in Go.",
+              ""
+            ],
+            [
+              "6",
+              "[@aledbf](https://github.com/aledbf)/[**kube-haproxy-router**](https://github.com/aledbf/kube-haproxy-router)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@go-zero](https://github.com/go-zero)/[**go-vedis**](https://github.com/go-zero/go-vedis)",
+              "Go bind to the Vedis datastore",
+              "[:arrow_upper_right:](http://vedis.symisc.net)"
+            ],
+            [
+              "5",
+              "[@aledbf](https://github.com/aledbf)/[**kube-to-coredns**](https://github.com/aledbf/kube-to-coredns)",
+              "Kubernetes DNS server using coredns",
+              ""
+            ],
+            [
+              "4",
+              "[@aledbf](https://github.com/aledbf)/[**systemd-go**](https://github.com/aledbf/systemd-go)",
+              "deis systemd scripts in go",
+              ""
+            ],
+            [
+              "3",
+              "[@tangzero](https://github.com/tangzero)/[**inflector**](https://github.com/tangzero/inflector)",
+              "A Go Inflector heavily inspired on the Rails version",
+              "[:arrow_upper_right:](https://github.com/tangzero/inflector)"
+            ],
+            [
+              "3",
+              "[@larixsource](https://github.com/larixsource)/[**suntech**](https://github.com/larixsource/suntech)",
+              "Suntech GPS parsers",
+              ""
+            ],
+            [
+              "3",
+              "[@aledbf](https://github.com/aledbf)/[**watch-kube-resource**](https://github.com/aledbf/watch-kube-resource)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@alkemir](https://github.com/alkemir)/[**intervaltree**](https://github.com/alkemir/intervaltree)",
+              "A dynamic, self-prunning version of the segment-tree using AVL trees",
+              ""
+            ],
+            [
+              "2",
+              "[@aledbf](https://github.com/aledbf)/[**haproxy-self-reload**](https://github.com/aledbf/haproxy-self-reload)",
+              "Monitor HAProxy configuration file changes to trigger a reload",
+              ""
+            ],
+            [
+              "2",
+              "[@douglasmakey](https://github.com/douglasmakey)/[**golang_api**](https://github.com/douglasmakey/golang_api)",
+              "A RESTful application boilerplate in Go using Echo + gorm with PostgreSQL and more.",
               ""
             ]
           ]

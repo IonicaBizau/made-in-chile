@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1580,6 +1581,273 @@
               "2",
               "[@TriForceX](https://github.com/TriForceX)/[**JediKnightPlus**](https://github.com/TriForceX/JediKnightPlus)",
               "Game modification for Jedi Knight 2 Multiplayer with useful and innovative features. (all game versions support)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "118",
+              "[@juribeparada](https://github.com/juribeparada)/[**MMDVM_HS**](https://github.com/juribeparada/MMDVM_HS)",
+              "MMDVM HotSpot: firmware for ZUMspot or MMDVM_HS based boards (D-Star, DMR, YSF, P25, NXDN and POCSAG)",
+              ""
+            ],
+            [
+              "38",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxGLWarper**](https://github.com/roymacdonald/ofxGLWarper)",
+              "openGL image quad-wraper addon for OF. ",
+              ""
+            ],
+            [
+              "31",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxSoundObjects**](https://github.com/roymacdonald/ofxSoundObjects)",
+              "openFrameworks addon implementation for the ofSoundObject implementaion developed at the YCAM '13 ofDevCon, yet never released",
+              ""
+            ],
+            [
+              "25",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxFatLines**](https://github.com/roymacdonald/ofxFatLines)",
+              "openFrameworks addon. draw nicely antialiased and feathered lines and polylines of any width via openGL.",
+              ""
+            ],
+            [
+              "22",
+              "[@radarsat1](https://github.com/radarsat1)/[**LoopDub**](https://github.com/radarsat1/LoopDub)",
+              "A cross-platform audio application for live loop manipulation.",
+              "[:arrow_upper_right:](http://loopdub.sourceforge.net/)"
+            ],
+            [
+              "21",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**kinectToTexturedOBJ**](https://github.com/roymacdonald/kinectToTexturedOBJ)",
+              "class to save the data from the kinect as a textured OBJ file. ",
+              ""
+            ],
+            [
+              "20",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxDLib-DEPRECATED-**](https://github.com/roymacdonald/ofxDLib-DEPRECATED-)",
+              "openFrameworks addon for including and wrapping the dlib library",
+              ""
+            ],
+            [
+              "19",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxInfiniteCanvas**](https://github.com/roymacdonald/ofxInfiniteCanvas)",
+              "Infinitely zoomable and scrollable 2D canvas addon for openFrameworks.",
+              ""
+            ],
+            [
+              "15",
+              "[@juribeparada](https://github.com/juribeparada)/[**YSF2DMR**](https://github.com/juribeparada/YSF2DMR)",
+              "Conversion software for Yaesu System Fusion to DMR",
+              ""
+            ],
+            [
+              "15",
+              "[@nilehmann](https://github.com/nilehmann)/[**wavelet-tree**](https://github.com/nilehmann/wavelet-tree)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxLUT**](https://github.com/roymacdonald/ofxLUT)",
+              "openFrameworks addon to filter images using 3D LUTs. 3D LUTs are used mainly in color gradding software to save the color transformations applied to an image.",
+              ""
+            ],
+            [
+              "12",
+              "[@bitnenfer](https://github.com/bitnenfer)/[**GLSpriteRenderDemo**](https://github.com/bitnenfer/GLSpriteRenderDemo)",
+              "Demo application showing capabilities of persistent and coherent buffer mapping in OpenGL.",
+              "[:arrow_upper_right:](http://voidptr.io/blog/2016/04/28/ldEngine-Part-1.html)"
+            ],
+            [
+              "11",
+              "[@radarsat1](https://github.com/radarsat1)/[**dimple**](https://github.com/radarsat1/dimple)",
+              "This project is an implementation of a physical dynamics environment which can be controlled via OSC, so that audio projects such as PureData can create physical objects in a virtual space, and then let them interact with each other, colliding and otherwise moving around. Data about objects' position and acceleration, for example, can be retrieved and then used to affect some sort of audio synthesis.  This repository is a mirror of the main DIMPLE git repository hosted on idmil.org.",
+              "[:arrow_upper_right:](http://idmil.org/software/dimple)"
+            ],
+            [
+              "11",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxCameraSaveLoad**](https://github.com/roymacdonald/ofxCameraSaveLoad)",
+              "openFrameworks addon. lets you save and load all the parameters of any ofCamera of ofEasyCam object.",
+              ""
+            ],
+            [
+              "9",
+              "[@nilehmann](https://github.com/nilehmann)/[**libk2tree**](https://github.com/nilehmann/libk2tree)",
+              "k2tree implementation",
+              ""
+            ],
+            [
+              "6",
+              "[@aindigo](https://github.com/aindigo)/[**libtorrent-js**](https://github.com/aindigo/libtorrent-js)",
+              "Relaxed Bindings and wraps to some functionality of Rasterbar - Lib Torrent for NodeJS",
+              ""
+            ],
+            [
+              "6",
+              "[@juribeparada](https://github.com/juribeparada)/[**MMDVM_CM**](https://github.com/juribeparada/MMDVM_CM)",
+              "Cross-mode conversion tools for MMDVM software",
+              ""
+            ],
+            [
+              "6",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofx2DCam**](https://github.com/roymacdonald/ofx2DCam)",
+              "Interactive ortoghraphic camera addon for openFrameworks.",
+              ""
+            ],
+            [
+              "5",
+              "[@radarsat1](https://github.com/radarsat1)/[**chai3d**](https://github.com/radarsat1/chai3d)",
+              "CHAI 3D is an open source, freely available set of C++ libraries for computer haptics, visualization and interactive real-time simulation.  This is not the project's official development repository, but is a personal area to stage proposed patches and to maintain the version of CHAI3D used in DIMPLE.",
+              "[:arrow_upper_right:](http://chai3d.org/)"
+            ],
+            [
+              "5",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxConstantQ**](https://github.com/roymacdonald/ofxConstantQ)",
+              "Constant Q transform implementation addon for openFrameworks.",
+              ""
+            ],
+            [
+              "5",
+              "[@radarsat1](https://github.com/radarsat1)/[**FOAW**](https://github.com/radarsat1/FOAW)",
+              "Implementation of several velocity estimators, including First-Order Adaptive Windowing (FOAW), least squares fit using FIR filter coefficients, Levant's 2-sliding observer, and a 3rd-order Kalman filter.",
+              ""
+            ],
+            [
+              "5",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxAfterEffectsTrans…**](https://github.com/roymacdonald/ofxAfterEffectsTransforms)",
+              "import into OF the transform keyframes from AfterEffects.",
+              ""
+            ],
+            [
+              "4",
+              "[@juribeparada](https://github.com/juribeparada)/[**DMR2YSF**](https://github.com/juribeparada/DMR2YSF)",
+              "Conversion software for DMR to Yaesu System Fusion",
+              ""
+            ],
+            [
+              "4",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**flatCity**](https://github.com/roymacdonald/flatCity)",
+              "Repo for flatNewYork project.",
+              ""
+            ],
+            [
+              "4",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**DLibTest**](https://github.com/roymacdonald/DLibTest)",
+              "TEst project that includes DLib in an openFrameworks project",
+              ""
+            ],
+            [
+              "4",
+              "[@nilehmann](https://github.com/nilehmann)/[**RePair-WaveletTree-G…**](https://github.com/nilehmann/RePair-WaveletTree-Graph)",
+              "Graph Implementation with repair bitmap compressed WaveletTree",
+              ""
+            ],
+            [
+              "3",
+              "[@hferrada](https://github.com/hferrada)/[**rmq**](https://github.com/hferrada/rmq)",
+              "This code creates a data structure to compute the RMQ(i,j) on an array of integers.",
+              ""
+            ],
+            [
+              "3",
+              "[@juribeparada](https://github.com/juribeparada)/[**YSF2P25**](https://github.com/juribeparada/YSF2P25)",
+              "Conversion software for Yaesu System Fusion (VW) to P25",
+              ""
+            ],
+            [
+              "3",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxParameterMidiSync**](https://github.com/roymacdonald/ofxParameterMidiSync)",
+              "openFrameworks addon for easily syncronizing ofParameters with MIDI messages.",
+              ""
+            ],
+            [
+              "3",
+              "[@diegocaro](https://github.com/diegocaro)/[**temporalgraphs**](https://github.com/diegocaro/temporalgraphs)",
+              "Compact data structures for Temporal Graphs",
+              ""
+            ],
+            [
+              "3",
+              "[@nilehmann](https://github.com/nilehmann)/[**k2tdb**](https://github.com/nilehmann/k2tdb)",
+              "Regular Path Queries for Graph Databases using k2trees.",
+              ""
+            ],
+            [
+              "3",
+              "[@sgioia9](https://github.com/sgioia9)/[**raytracer**](https://github.com/sgioia9/raytracer)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@juribeparada](https://github.com/juribeparada)/[**NXDN2DMR**](https://github.com/juribeparada/NXDN2DMR)",
+              "Software conversion for NXDN to DMR",
+              ""
+            ],
+            [
+              "2",
+              "[@juribeparada](https://github.com/juribeparada)/[**MMDVM_DMR**](https://github.com/juribeparada/MMDVM_DMR)",
+              "MMDVM firmware with DMR support only",
+              ""
+            ],
+            [
+              "2",
+              "[@bitnenfer](https://github.com/bitnenfer)/[**bmfont_cpp**](https://github.com/bitnenfer/bmfont_cpp)",
+              "Extract binary information from BMFont Binary output.",
+              ""
+            ],
+            [
+              "2",
+              "[@radarsat1](https://github.com/radarsat1)/[**rustaudio**](https://github.com/radarsat1/rustaudio)",
+              "Just testing some audio generation code in Rust.  This is not a serious project, but just a simple wrapper for RtAudio so that I can run some DSP routines and hear the output.",
+              ""
+            ],
+            [
+              "2",
+              "[@diegocaro](https://github.com/diegocaro)/[**wmatrix**](https://github.com/diegocaro/wmatrix)",
+              "Wavelet Matrix and Interleaved Wavelet Matrix implementations",
+              ""
+            ],
+            [
+              "2",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxTween2**](https://github.com/roymacdonald/ofxTween2)",
+              "Reimplementation of ofxTween, which was deprecated, now using ofxEasing to deal with easings.",
+              ""
+            ],
+            [
+              "2",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxDisplayEvents**](https://github.com/roymacdonald/ofxDisplayEvents)",
+              "Let's your openFramworks app to listen to display events such as adding or removing a display, resizing, etc.",
+              ""
+            ],
+            [
+              "2",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**TheFriedmanEffect**](https://github.com/roymacdonald/TheFriedmanEffect)",
+              "Simple OF app that recreates the seudo pixelation effect seen on some works of artist Tom Friedman.",
+              ""
+            ],
+            [
+              "2",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxModal**](https://github.com/roymacdonald/ofxModal)",
+              "openFrameworks addon. Easily create custom modal dialogs.",
+              ""
+            ],
+            [
+              "2",
+              "[@roymacdonald](https://github.com/roymacdonald)/[**ofxSKT**](https://github.com/roymacdonald/ofxSKT)",
+              "openFrameworks implementation of simpleKinectTouch. Is very messy right now. needs to be cleaned.",
               ""
             ]
           ]

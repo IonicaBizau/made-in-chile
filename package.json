@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -1848,6 +1849,33 @@
               "2",
               "[@roymacdonald](https://github.com/roymacdonald)/[**ofxSKT**](https://github.com/roymacdonald/ofxSKT)",
               "openFrameworks implementation of simpleKinectTouch. Is very messy right now. needs to be cleaned.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@theguaz](https://github.com/theguaz)/[**arduino-as3-processi…**](https://github.com/theguaz/arduino-as3-processing-set-II)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Pluralandpartners](https://github.com/Pluralandpartners)/[**SimpleYoutubePlayer**](https://github.com/Pluralandpartners/SimpleYoutubePlayer)",
+              "Simple Youtube Player Class written in as3",
               ""
             ]
           ]

@@ -60,7 +60,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -2296,6 +2297,27 @@
               "2",
               "[@jonathanramirez](https://github.com/jonathanramirez)/[**SimpleNSCollectionVi…**](https://github.com/jonathanramirez/SimpleNSCollectionView)",
               "This example Cocoa application,  basic functionality NSCollectionView",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@huguei](https://github.com/huguei)/[**dnssec**](https://github.com/huguei/dnssec)",
+              "Some dnssec scripts",
               ""
             ]
           ]

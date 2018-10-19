@@ -67,7 +67,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -3470,6 +3471,45 @@
               "2",
               "[@waflessnet](https://github.com/waflessnet)/[**sii-bash**](https://github.com/waflessnet/sii-bash)",
               "Autenticacion SII con bash",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1674",
+              "[@jakarmy](https://github.com/jakarmy)/[**swift-summary**](https://github.com/jakarmy/swift-summary)",
+              "A summary of Apple's Swift language written on Playgrounds",
+              ""
+            ],
+            [
+              "4",
+              "[@iOS-Love](https://github.com/iOS-Love)/[**duoc-workshop**](https://github.com/iOS-Love/duoc-workshop)",
+              "iOS Love Workshop en Duoc UC",
+              ""
+            ],
+            [
+              "4",
+              "[@santos88](https://github.com/santos88)/[**itunes-api-example-u…**](https://github.com/santos88/itunes-api-example-using-codable)",
+              "itunes-api-example-using-codable",
+              ""
+            ],
+            [
+              "2",
+              "[@feliperuzg](https://github.com/feliperuzg)/[**CleanExample**](https://github.com/feliperuzg/CleanExample)",
+              "Simple LoginView using MVP and Clean Principles",
               ""
             ]
           ]

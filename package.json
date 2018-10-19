@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -1459,6 +1460,27 @@
               "[@raulghm](https://github.com/raulghm)/[**beerjs-valdivia-site**](https://github.com/raulghm/beerjs-valdivia-site)",
               "BeerJS Valdivia Site",
               "[:arrow_upper_right:](http://valdivia.beerjs.cl)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@joseglego](https://github.com/joseglego)/[**joseglego.github.io**](https://github.com/joseglego/joseglego.github.io)",
+              "Personal landing page. Using HTML5, Sass, JavaScript/jQuery, Gulp & Eslint",
+              "[:arrow_upper_right:](http://joseglego.io/)"
             ]
           ]
         }

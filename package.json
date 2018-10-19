@@ -39,5 +39,1064 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-chile/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1145",
+              "[@RafaelVidaurre](https://github.com/RafaelVidaurre)/[**angular-permission**](https://github.com/RafaelVidaurre/angular-permission)",
+              "Simple route authorization via roles/permissions",
+              ""
+            ],
+            [
+              "1043",
+              "[@tomas](https://github.com/tomas)/[**needle**](https://github.com/tomas/needle)",
+              "Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/needle)"
+            ],
+            [
+              "672",
+              "[@andresgottlieb](https://github.com/andresgottlieb)/[**soundcast**](https://github.com/andresgottlieb/soundcast)",
+              "Cast audio from macOS to Chromecast",
+              ""
+            ],
+            [
+              "408",
+              "[@rubentd](https://github.com/rubentd)/[**gifplayer**](https://github.com/rubentd/gifplayer)",
+              "Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats",
+              "[:arrow_upper_right:](http://rubentd.com/gifplayer)"
+            ],
+            [
+              "349",
+              "[@alangrafu](https://github.com/alangrafu)/[**radar-chart-d3**](https://github.com/alangrafu/radar-chart-d3)",
+              "Simple radar chart in D3.js",
+              ""
+            ],
+            [
+              "292",
+              "[@RafaelVidaurre](https://github.com/RafaelVidaurre)/[**yakuza**](https://github.com/RafaelVidaurre/yakuza)",
+              "Highly scalable Node.js scraping framework for mobsters",
+              ""
+            ],
+            [
+              "206",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**simple-react-form**](https://github.com/nicolaslopezj/simple-react-form)",
+              "A library to make reusable form components in React and React Native",
+              "[:arrow_upper_right:](http://simple-react-form.nicolaslopez.co)"
+            ],
+            [
+              "129",
+              "[@rubentd](https://github.com/rubentd)/[**darktooltip**](https://github.com/rubentd/darktooltip)",
+              "Simple customizable tooltip with confirm option and 3d effects",
+              "[:arrow_upper_right:](rubentd.com/darktooltip)"
+            ],
+            [
+              "126",
+              "[@alangrafu](https://github.com/alangrafu)/[**timeknots**](https://github.com/alangrafu/timeknots)",
+              "Minimalist timeline in javascript based on d3.js. This work was inspired by https://github.com/mquan/timeline",
+              ""
+            ],
+            [
+              "115",
+              "[@jlobos](https://github.com/jlobos)/[**instagram-web-api**](https://github.com/jlobos/instagram-web-api)",
+              "🤳 Instagram Private Web API client for Node",
+              "[:arrow_upper_right:](https://npmjs.com/instagram-web-api)"
+            ],
+            [
+              "109",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**routed-react**](https://github.com/lopezjurip/routed-react)",
+              "Using create-react-app with React Router + Express.js and Docker. This is a naive and simple way where server-side rendering is not required.",
+              "[:arrow_upper_right:](https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d)"
+            ],
+            [
+              "92",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**roles**](https://github.com/nicolaslopezj/roles)",
+              "The most advanced roles package for meteor",
+              ""
+            ],
+            [
+              "85",
+              "[@rubentd](https://github.com/rubentd)/[**radios-to-slider**](https://github.com/rubentd/radios-to-slider)",
+              "jquery plugin to create a slider using a list of radio buttons",
+              ""
+            ],
+            [
+              "79",
+              "[@rubentd](https://github.com/rubentd)/[**tanks**](https://github.com/rubentd/tanks)",
+              "Tanks battle game prototype, for nodejs learning purposes",
+              ""
+            ],
+            [
+              "63",
+              "[@tomas](https://github.com/tomas)/[**network**](https://github.com/tomas/network)",
+              "The missing network utilities in Node.js. ",
+              ""
+            ],
+            [
+              "52",
+              "[@marcelofelman](https://github.com/marcelofelman)/[**mva-bots**](https://github.com/marcelofelman/mva-bots)",
+              "Material para cursos de MVA sobre bots",
+              ""
+            ],
+            [
+              "47",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**meteor-router-layer**](https://github.com/nicolaslopezj/meteor-router-layer)",
+              "A layer for Meteor Routers",
+              ""
+            ],
+            [
+              "39",
+              "[@tomas](https://github.com/tomas)/[**dialog**](https://github.com/tomas/dialog)",
+              "Show native alert dialogs on Windows, OSX and Linux with Node.js.",
+              ""
+            ],
+            [
+              "37",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**tinyModal**](https://github.com/juanbrujo/tinyModal)",
+              "Clean, Fast, Modular and customizable Modal Window controller",
+              "[:arrow_upper_right:](http://juanbrujo.github.io/tinyModal/)"
+            ],
+            [
+              "37",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**react-apollo-decorat…**](https://github.com/nicolaslopezj/react-apollo-decorators)",
+              "Better decorators for Apollo and React",
+              ""
+            ],
+            [
+              "34",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**simple-react-form-ma…**](https://github.com/nicolaslopezj/simple-react-form-material-ui)",
+              "A set of fields for simple-react-form that use material-ui",
+              "[:arrow_upper_right:](http://simple-react-form.nicolaslopez.co)"
+            ],
+            [
+              "33",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**meteor-react-form**](https://github.com/nicolaslopezj/meteor-react-form)",
+              "Automatic forms creation with Simple Schema and React",
+              ""
+            ],
+            [
+              "32",
+              "[@jlobos](https://github.com/jlobos)/[**instagram-stories**](https://github.com/jlobos/instagram-stories)",
+              "Get the Instagram Stories in Node.js and Browser",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/instagram-stories)"
+            ],
+            [
+              "31",
+              "[@rubentd](https://github.com/rubentd)/[**toasty**](https://github.com/rubentd/toasty)",
+              "Show Dan Forden's Toasty from Mortal Kombat as an Easter Egg for your website",
+              "[:arrow_upper_right:](rubentd.com/toasty)"
+            ],
+            [
+              "30",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**reactive-templates**](https://github.com/nicolaslopezj/reactive-templates)",
+              "Create templates that you can override in meteor",
+              ""
+            ],
+            [
+              "28",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**Sluggin.js**](https://github.com/juanbrujo/Sluggin.js)",
+              "Converts string/array into websafe-friendly-clean piece of text",
+              "[:arrow_upper_right:](http://juanbrujo.github.io/Sluggin.js/)"
+            ],
+            [
+              "27",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-websocket**](https://github.com/YerkoPalma/choo-websocket)",
+              ":loop: Small wrapper around WebSocket browser API, for choo apps",
+              ""
+            ],
+            [
+              "22",
+              "[@FabianBravoA](https://github.com/FabianBravoA)/[**tbk_node**](https://github.com/FabianBravoA/tbk_node)",
+              "Transbank node.js module (NOT OFFICIAL)",
+              ""
+            ],
+            [
+              "21",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-audio**](https://github.com/YerkoPalma/choo-audio)",
+              ":musical_note: Opinionated abstraction around web audio api for choo framework",
+              ""
+            ],
+            [
+              "18",
+              "[@jlobos](https://github.com/jlobos)/[**pokemongo-genymotion**](https://github.com/jlobos/pokemongo-genymotion)",
+              "Play Pokémon GO from your Genymotion device",
+              ""
+            ],
+            [
+              "17",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-tts**](https://github.com/YerkoPalma/choo-tts)",
+              ":loudspeaker: Simple text-to-speech in the browser for choo",
+              ""
+            ],
+            [
+              "17",
+              "[@jlobos](https://github.com/jlobos)/[**rut.js**](https://github.com/jlobos/rut.js)",
+              ":chile: Sencilla y pequeña librería para validar y dar formato al RUT",
+              "[:arrow_upper_right:](https://npmjs.com/rut.js)"
+            ],
+            [
+              "15",
+              "[@rubentd](https://github.com/rubentd)/[**haunterjs**](https://github.com/rubentd/haunterjs)",
+              "CSS regression testing tool focused on simplicity",
+              ""
+            ],
+            [
+              "15",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**marli**](https://github.com/YerkoPalma/marli)",
+              ":memo: Markdown tagged template literal renderer",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/marli)"
+            ],
+            [
+              "15",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-sse**](https://github.com/YerkoPalma/choo-sse)",
+              "Small wrapper around server-sent event browser API, for choo apps",
+              ""
+            ],
+            [
+              "15",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**limitCharacts**](https://github.com/juanbrujo/limitCharacts)",
+              "Limits and trim the amount of characters added to any input/textarea tag",
+              ""
+            ],
+            [
+              "14",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**electron-react-deskt…**](https://github.com/lopezjurip/electron-react-desktop-template)",
+              "Starting point for a Electron + React.js + React-Router-v4",
+              ""
+            ],
+            [
+              "12",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**chooify**](https://github.com/YerkoPalma/chooify)",
+              ":construction: Browserify transform to process .choo files as isolated, stateless choo components",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/chooify)"
+            ],
+            [
+              "12",
+              "[@tomas](https://github.com/tomas)/[**spaghetti**](https://github.com/tomas/spaghetti)",
+              "Wrapper around GStreamer's gst-launch for Node.js.",
+              ""
+            ],
+            [
+              "11",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-stt**](https://github.com/YerkoPalma/choo-stt)",
+              ":microphone: Simple speech-to-text in the browser for choo",
+              ""
+            ],
+            [
+              "11",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**node-nmea**](https://github.com/lgaticaq/node-nmea)",
+              "Parser for NMEA sentences.",
+              ""
+            ],
+            [
+              "11",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**bip**](https://github.com/lgaticaq/bip)",
+              "Get balance of bip card (Chile)",
+              ""
+            ],
+            [
+              "11",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-animate**](https://github.com/YerkoPalma/choo-animate)",
+              "Add animations to choo navigation system",
+              ""
+            ],
+            [
+              "10",
+              "[@tomas](https://github.com/tomas)/[**satan**](https://github.com/tomas/satan)",
+              "Bring daemons to life or destroy them forever. Cross platform, Node.js.",
+              ""
+            ],
+            [
+              "10",
+              "[@alangrafu](https://github.com/alangrafu)/[**visualSparql**](https://github.com/alangrafu/visualSparql)",
+              "Create SPARQL queries in a graphical way",
+              ""
+            ],
+            [
+              "10",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-offline**](https://github.com/YerkoPalma/choo-offline)",
+              ":wrench: offline first support for choo apps",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/choo-offline)"
+            ],
+            [
+              "9",
+              "[@burabure](https://github.com/burabure)/[**clase-react**](https://github.com/burabure/clase-react)",
+              "Material Clase React",
+              ""
+            ],
+            [
+              "9",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**mixture-fbtab-boiler…**](https://github.com/juanbrujo/mixture-fbtab-boilerplate)",
+              "Mixture.io + Facebook Tab = Boilerplate",
+              ""
+            ],
+            [
+              "9",
+              "[@highercomve](https://github.com/highercomve)/[**angular-starter-kit**](https://github.com/highercomve/angular-starter-kit)",
+              "Template for angular application",
+              ""
+            ],
+            [
+              "8",
+              "[@alangrafu](https://github.com/alangrafu)/[**github-open-data-por…**](https://github.com/alangrafu/github-open-data-portal)",
+              "Ejemplo de Repositorio Open Data en github",
+              ""
+            ],
+            [
+              "8",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**excel-export**](https://github.com/nicolaslopezj/excel-export)",
+              "Export excel files with Meteor",
+              ""
+            ],
+            [
+              "8",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**rutificador**](https://github.com/lopezjurip/rutificador)",
+              "Get chilean RUT from people's name",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/rutificador)"
+            ],
+            [
+              "8",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**dsh**](https://github.com/YerkoPalma/dsh)",
+              ":globe_with_meridians: Remotelly run commands using Dat",
+              ""
+            ],
+            [
+              "8",
+              "[@tomas](https://github.com/tomas)/[**proxyconf**](https://github.com/tomas/proxyconf)",
+              "Node.js module for handling system proxy configuration. Unfinished.",
+              ""
+            ],
+            [
+              "7",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**cha-bar**](https://github.com/juanbrujo/cha-bar)",
+              "Mac OS X menu bar app that shows cryptocurrency CHAUCHA price in real-time",
+              ""
+            ],
+            [
+              "7",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**transantiago-bot**](https://github.com/lopezjurip/transantiago-bot)",
+              "Telegram Transantiago Bot",
+              "[:arrow_upper_right:](https://lopezjuri.com/transantiago-bot/)"
+            ],
+            [
+              "7",
+              "[@tomas](https://github.com/tomas)/[**reply**](https://github.com/tomas/reply)",
+              "Node.js console-based wizards in a snap.",
+              ""
+            ],
+            [
+              "7",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**simple-react-form-ex…**](https://github.com/nicolaslopezj/simple-react-form-examples)",
+              "Examples for Simple React Form",
+              "[:arrow_upper_right:](http://simple-react-form.nicolaslopez.co)"
+            ],
+            [
+              "7",
+              "[@tomas](https://github.com/tomas)/[**wmic**](https://github.com/tomas/wmic)",
+              "Wrapper around the Windows WMIC interface for Node.js.",
+              ""
+            ],
+            [
+              "6",
+              "[@highercomve](https://github.com/highercomve)/[**serverless-starter-k…**](https://github.com/highercomve/serverless-starter-kit)",
+              "Initial file structure for api projects with lambda",
+              ""
+            ],
+            [
+              "6",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**tic-tac-toe**](https://github.com/YerkoPalma/tic-tac-toe)",
+              ":game_die: Progressive tic tac toe game, made with choo",
+              "[:arrow_upper_right:](https://tic-tac-choo.surge.sh/)"
+            ],
+            [
+              "6",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**vue-print**](https://github.com/YerkoPalma/vue-print)",
+              ":package: (WIP) Vue plugin to easy print in the web",
+              ""
+            ],
+            [
+              "6",
+              "[@jlobos](https://github.com/jlobos)/[**neo-instagram**](https://github.com/jlobos/neo-instagram)",
+              "🤳 Instagram for Node.js",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/neo-instagram)"
+            ],
+            [
+              "6",
+              "[@alangrafu](https://github.com/alangrafu)/[**farrah**](https://github.com/alangrafu/farrah)",
+              "Farrah, The Fawcetted Browser",
+              "[:arrow_upper_right:](http://graves.cl/farrah)"
+            ],
+            [
+              "6",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**now-static**](https://github.com/juanbrujo/now-static)",
+              "starter to serve static files for now service",
+              "[:arrow_upper_right:](https://now-static-woluvutxgp.now.sh/)"
+            ],
+            [
+              "6",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**simple-grunt-workflo…**](https://github.com/juanbrujo/simple-grunt-workflow)",
+              "Basic and simple GruntJS workflow for front-end projects",
+              "[:arrow_upper_right:](http://www.csslab.cl/2014/04/07/automatizacion-de-tareas-para-proyectos-en-front-end/)"
+            ],
+            [
+              "6",
+              "[@burabure](https://github.com/burabure)/[**react-testing**](https://github.com/burabure/react-testing)",
+              "React Testing example",
+              ""
+            ],
+            [
+              "6",
+              "[@tomas](https://github.com/tomas)/[**roster**](https://github.com/tomas/roster)",
+              "Create or delete system user accounts in macOS, Linux and Windows.",
+              ""
+            ],
+            [
+              "6",
+              "[@burabure](https://github.com/burabure)/[**react-webpack-hot-bo…**](https://github.com/burabure/react-webpack-hot-boilerplate)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@tomas](https://github.com/tomas)/[**tuna**](https://github.com/tomas/tuna)",
+              "Reverse tunnels for Node.js. Node.js for tunnels reverse.",
+              ""
+            ],
+            [
+              "5",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**anime-dl**](https://github.com/lgaticaq/anime-dl)",
+              "Search and get anime video url",
+              ""
+            ],
+            [
+              "5",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**tbk-oneclick**](https://github.com/lgaticaq/tbk-oneclick)",
+              "Node Implementation of Transbank Oneclick API SOAP",
+              ""
+            ],
+            [
+              "5",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**numberToCLPFormater**](https://github.com/juanbrujo/numberToCLPFormater)",
+              "transforms a number to currency used in Chile (Chilean Pesos)",
+              ""
+            ],
+            [
+              "5",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**createElement**](https://github.com/juanbrujo/createElement)",
+              "Create HTML elements using JavaScript",
+              "[:arrow_upper_right:](http://juanbrujo.github.io/createElement/)"
+            ],
+            [
+              "5",
+              "[@jlobos](https://github.com/jlobos)/[**emojify-shorten**](https://github.com/jlobos/emojify-shorten)",
+              "Shorten your links with emoji 🥑 🦍 🍾 🏄 🎬 🤞 🥂 🎸",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/emojify-shorten)"
+            ],
+            [
+              "5",
+              "[@ivolivares](https://github.com/ivolivares)/[**workshop-angularjs-l…**](https://github.com/ivolivares/workshop-angularjs-laboratoria)",
+              "Workshop de AngularJS  creado para Laboratoria :grinning:",
+              ""
+            ],
+            [
+              "5",
+              "[@blackjid](https://github.com/blackjid)/[**gwohelper**](https://github.com/blackjid/gwohelper)",
+              "Helper for GWO that allow you to run multiple experiments in the same page",
+              ""
+            ],
+            [
+              "5",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**options**](https://github.com/nicolaslopezj/options)",
+              "Reactive app options for meteor",
+              ""
+            ],
+            [
+              "5",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**beerjs-santiago**](https://github.com/juanbrujo/beerjs-santiago)",
+              "Theme base para sitio BeerJS - Santiago | www.beerjs.cl",
+              ""
+            ],
+            [
+              "4",
+              "[@alangrafu](https://github.com/alangrafu)/[**turtle-in-html**](https://github.com/alangrafu/turtle-in-html)",
+              "Bookmark to visualize RDF embedded in HTML as Turtle",
+              ""
+            ],
+            [
+              "4",
+              "[@atma](https://github.com/atma)/[**grunt-nuget**](https://github.com/atma/grunt-nuget)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@alangrafu](https://github.com/alangrafu)/[**votaciones-senado-co…**](https://github.com/alangrafu/votaciones-senado-congreso.cl)",
+              "Extracción, parsing y conversión de votaciones del senado de Chile a RDF",
+              ""
+            ],
+            [
+              "4",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**thirsty-cat-duino**](https://github.com/juanbrujo/thirsty-cat-duino)",
+              "Arduino-controlled water-supply for my 🐈",
+              ""
+            ],
+            [
+              "4",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**chilexpress-cli**](https://github.com/lgaticaq/chilexpress-cli)",
+              "Check shipping status in chilexpress CLI",
+              ""
+            ],
+            [
+              "4",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**beerjs-cli**](https://github.com/lgaticaq/beerjs-cli)",
+              "Get beerjs info (Chile) CLI",
+              ""
+            ],
+            [
+              "4",
+              "[@tomas](https://github.com/tomas)/[**linus**](https://github.com/tomas/linus)",
+              "Get current Linux distro name and version, from Node.js.",
+              ""
+            ],
+            [
+              "4",
+              "[@tomas](https://github.com/tomas)/[**lisa**](https://github.com/tomas/lisa)",
+              "Lean deployment for single or multi-stage environments. Like Capistrano but in JS.",
+              ""
+            ],
+            [
+              "4",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**dead-simple-react-ap…**](https://github.com/lopezjurip/dead-simple-react-app)",
+              "Express.js, Docker and PM2 with create-react-app",
+              ""
+            ],
+            [
+              "4",
+              "[@FabianBravoA](https://github.com/FabianBravoA)/[**validaRut**](https://github.com/FabianBravoA/validaRut)",
+              "Validar rut",
+              ""
+            ],
+            [
+              "4",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**Typefont-example**](https://github.com/juanbrujo/Typefont-example)",
+              "Example files for Typefont project",
+              "[:arrow_upper_right:](https://juanbrujo.github.io/Typefont-example/)"
+            ],
+            [
+              "4",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**anime-dl-cli**](https://github.com/lgaticaq/anime-dl-cli)",
+              "CLI for show and download anime from jkanime.net",
+              ""
+            ],
+            [
+              "4",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**jquery-scrollTips**](https://github.com/juanbrujo/jquery-scrollTips)",
+              "This small jQuery plugin creates tooltips that helps navigation within the same page",
+              ""
+            ],
+            [
+              "3",
+              "[@jlobos](https://github.com/jlobos)/[**rut-regex**](https://github.com/jlobos/rut-regex)",
+              "Regular expression for matching Chile RUT's",
+              ""
+            ],
+            [
+              "3",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**georegionalizacion**](https://github.com/juanbrujo/georegionalizacion)",
+              "jQuery plugin que permite generar dependencia entre 2 <select> y entre ellos mostrar la relación region / comuna que conforma la distribución geopolítica de la República de Chile",
+              "[:arrow_upper_right:](http://www.csslab.cl/2014/01/22/jquery-georegionalizacion/)"
+            ],
+            [
+              "3",
+              "[@palamago](https://github.com/palamago)/[**comuViz**](https://github.com/palamago/comuViz)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**random-cli**](https://github.com/juanbrujo/random-cli)",
+              "node.js Command Line Interface to select randomly from given list or range",
+              ""
+            ],
+            [
+              "3",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**email-queue**](https://github.com/nicolaslopezj/email-queue)",
+              "Add emails to a queue and send them one by one",
+              ""
+            ],
+            [
+              "3",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**CMS.js-album-generat…**](https://github.com/juanbrujo/CMS.js-album-generator)",
+              "Scrapes a directory of photos and creates markdown files to be used by CMS.js enabled site",
+              ""
+            ],
+            [
+              "3",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**hubot-cne**](https://github.com/lgaticaq/hubot-cne)",
+              "A hubot script to get fuel price in Chile from cne api",
+              ""
+            ],
+            [
+              "3",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**info-rut**](https://github.com/lgaticaq/info-rut)",
+              "Get full name from a valid RUT",
+              ""
+            ],
+            [
+              "3",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**meitrack-parser**](https://github.com/lgaticaq/meitrack-parser)",
+              "Parse raw data from Meitrack devices",
+              ""
+            ],
+            [
+              "3",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**web-audio-graph**](https://github.com/YerkoPalma/web-audio-graph)",
+              ":speaker: web audiograph builder",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/web-audio-graph)"
+            ],
+            [
+              "3",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**s3-static-proxy**](https://github.com/nicolaslopezj/s3-static-proxy)",
+              "Server side rendering solution for create react apps",
+              ""
+            ],
+            [
+              "3",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**houdini-pixel-editor**](https://github.com/YerkoPalma/houdini-pixel-editor)",
+              "",
+              "[:arrow_upper_right:](https://yerkopalma.github.io/houdini-pixel-editor)"
+            ],
+            [
+              "3",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**koa-semver**](https://github.com/lopezjurip/koa-semver)",
+              "Semantic Versioning middleware",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/koa-semver)"
+            ],
+            [
+              "3",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-example**](https://github.com/YerkoPalma/choo-example)",
+              "Full stack example with choo front-end",
+              ""
+            ],
+            [
+              "3",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**orion-users-with-rol…**](https://github.com/nicolaslopezj/orion-users-with-roles-attribute)",
+              "Users attribute with roles filter",
+              ""
+            ],
+            [
+              "3",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-starter**](https://github.com/YerkoPalma/choo-starter)",
+              ":bowtie: choo starter template",
+              ""
+            ],
+            [
+              "3",
+              "[@tomas](https://github.com/tomas)/[**memorize**](https://github.com/tomas/memorize)",
+              "Smart async function memoization. Node.js / Io.js.",
+              ""
+            ],
+            [
+              "3",
+              "[@tomas](https://github.com/tomas)/[**buckle**](https://github.com/tomas/buckle)",
+              "Pure JS unzip that preserves file attributes.",
+              ""
+            ],
+            [
+              "3",
+              "[@andresgottlieb](https://github.com/andresgottlieb)/[**nodio**](https://github.com/andresgottlieb/nodio)",
+              "A node.js client for accessing the Podio API using the App authentication flow. Node + Podio = Nodio.",
+              ""
+            ],
+            [
+              "3",
+              "[@highercomve](https://github.com/highercomve)/[**unilateral-data-flow**](https://github.com/highercomve/unilateral-data-flow)",
+              "",
+              "[:arrow_upper_right:](http://highercomve.github.io/unilateral-data-flow/)"
+            ],
+            [
+              "3",
+              "[@dochoaj](https://github.com/dochoaj)/[**react-boilerplate**](https://github.com/dochoaj/react-boilerplate)",
+              "A simple React boilerplate made with <3",
+              ""
+            ],
+            [
+              "3",
+              "[@highercomve](https://github.com/highercomve)/[**ShadowDOMComponent**](https://github.com/highercomve/ShadowDOMComponent)",
+              "Just testing some ideas, don't use this for anyting else, only for fun",
+              ""
+            ],
+            [
+              "3",
+              "[@jlobos](https://github.com/jlobos)/[**mega-url-regex**](https://github.com/jlobos/mega-url-regex)",
+              "Regular expression for matching MEGA URLs",
+              ""
+            ],
+            [
+              "3",
+              "[@ivolivares](https://github.com/ivolivares)/[**workshop-devtools-la…**](https://github.com/ivolivares/workshop-devtools-laboratoria)",
+              "Workshop de Devtools creado para Laboratoria :grinning:",
+              ""
+            ],
+            [
+              "3",
+              "[@jlobos](https://github.com/jlobos)/[**bono-marzo-whatsapp**](https://github.com/jlobos/bono-marzo-whatsapp)",
+              "Consulta si eres beneficiado del Aporte Familiar Permanente (Bono Marzo) vía WhatsApp",
+              ""
+            ],
+            [
+              "3",
+              "[@alangrafu](https://github.com/alangrafu)/[**dspace_metadata_rdf**](https://github.com/alangrafu/dspace_metadata_rdf)",
+              "Tool for converting dspace metadata into RDF and viceversa",
+              ""
+            ],
+            [
+              "3",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**vue-calculaasado**](https://github.com/juanbrujo/vue-calculaasado)",
+              "Prototipo de calculatuasado.cl en VueJS",
+              "[:arrow_upper_right:](https://vue-calculaasado-toinwnwtlh.now.sh/)"
+            ],
+            [
+              "3",
+              "[@rubentd](https://github.com/rubentd)/[**jarvis**](https://github.com/rubentd/jarvis)",
+              "Personal home assistant, listens to voice commands and telegram messages, to perform actions like playing music or turning lights on and off",
+              ""
+            ],
+            [
+              "2",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**duotone-generator**](https://github.com/YerkoPalma/duotone-generator)",
+              ":nail_care: generate duotone atom themes with contrast checker",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/duotone-generator)"
+            ],
+            [
+              "2",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**orion-stripe**](https://github.com/nicolaslopezj/orion-stripe)",
+              "Orion integration with stripe payments",
+              ""
+            ],
+            [
+              "2",
+              "[@burabure](https://github.com/burabure)/[**tut-ES6-promises-gen…**](https://github.com/burabure/tut-ES6-promises-generators)",
+              "Presentacion interactiva sobre Promesas, Generadores, Iteradores y Async/Await en ES6",
+              ""
+            ],
+            [
+              "2",
+              "[@burabure](https://github.com/burabure)/[**start-mvu**](https://github.com/burabure/start-mvu)",
+              "Model-View-Update reactive pattern for Javascript",
+              ""
+            ],
+            [
+              "2",
+              "[@palamago](https://github.com/palamago)/[**messi-500**](https://github.com/palamago/messi-500)",
+              "Data Visualization about Messi's 500 goals",
+              "[:arrow_upper_right:](http://palamago.github.io/messi-500)"
+            ],
+            [
+              "2",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**material-blog**](https://github.com/nicolaslopezj/material-blog)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**khaos-hubot-script**](https://github.com/lgaticaq/khaos-hubot-script)",
+              "A template for quickly building hubot scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**superclave-CLI**](https://github.com/juanbrujo/superclave-CLI)",
+              "CLI en Node.js para manejar de manera local y a través de terminal.app la SuperClave (soft token) de un banco en Chile",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**jquery-entelCharacts**](https://github.com/juanbrujo/jquery-entelCharacts)",
+              "Transforma secuencialmente los caracteres dado un string (texto) tal como lo hace Entel en su publicidad.",
+              "[:arrow_upper_right:](http://juanbrujo.github.io/jquery-entelCharacts/)"
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**jQuery-browserSizr**](https://github.com/juanbrujo/jQuery-browserSizr)",
+              "Your flexible fixed layout / Tu estructura fija, flexible",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**chilegram**](https://github.com/juanbrujo/chilegram)",
+              "Lab project including instagram API, LESS, jQuery (audio) and lots of CSS3",
+              ""
+            ],
+            [
+              "2",
+              "[@nicolaslopezj](https://github.com/nicolaslopezj)/[**flow**](https://github.com/nicolaslopezj/flow)",
+              "Pagos Flow Chile (webpay) para meteor",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**npm-starter**](https://github.com/juanbrujo/npm-starter)",
+              "Starter for a basic NPM module",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**shorte-st**](https://github.com/jlobos/shorte-st)",
+              "Shorten URLs using Shorte.st and earn money 💰",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**csslab-weekly-assist…**](https://github.com/juanbrujo/csslab-weekly-assistant)",
+              "NodeJS robot that helps me to build CSSLab's Weekly newsletter",
+              "[:arrow_upper_right:](http://www.csslab.cl/csslab-weekly)"
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**blogger-html-preview**](https://github.com/jlobos/blogger-html-preview)",
+              "Get output code preview of Google Blogger",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**seleq**](https://github.com/juanbrujo/seleq)",
+              "Smallest JavaScript selector handler",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**neo-disqus**](https://github.com/jlobos/neo-disqus)",
+              "Disqus API client library for node.js ✨",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/neo-disqus)"
+            ],
+            [
+              "2",
+              "[@Angularjschile](https://github.com/Angularjschile)/[**ng-rut**](https://github.com/Angularjschile/ng-rut)",
+              "NG RUT Validador Rut Chileno",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**mega-link-available**](https://github.com/jlobos/mega-link-available)",
+              "Check if MEGA links is available",
+              ""
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**sii**](https://github.com/lgaticaq/sii)",
+              "Crea facilmente boleta de honorarios",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**ouo**](https://github.com/jlobos/ouo)",
+              "Shorten URLs using OUO.io and earn money",
+              ""
+            ],
+            [
+              "2",
+              "[@hectorpalmatellez](https://github.com/hectorpalmatellez)/[**pineapplepizza**](https://github.com/hectorpalmatellez/pineapplepizza)",
+              ":pineapple: :pizza: .ws",
+              "[:arrow_upper_right:](http://xn--ni8hqa.ws)"
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**369**](https://github.com/jlobos/369)",
+              "three, six and nine (369) :milky_way: ",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/369)"
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**node-totp-cli**](https://github.com/lgaticaq/node-totp-cli)",
+              "Insert/Generate a TOTP for a service from pass",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**blogger-save-theme**](https://github.com/jlobos/blogger-save-theme)",
+              "Save theme of Google Blogger from Node.js",
+              ""
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**bomberos-cl-api**](https://github.com/lgaticaq/bomberos-cl-api)",
+              "Listado de Cuerpos de Bomberos de Chile en json y csv",
+              ""
+            ],
+            [
+              "2",
+              "[@jlobos](https://github.com/jlobos)/[**nic-chile**](https://github.com/jlobos/nic-chile)",
+              ":chile: Dot cl domains (.cl) last registered, search, deleted and whois from nic.cl",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/nic-chile)"
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**hubot-kitsu**](https://github.com/lgaticaq/hubot-kitsu)",
+              "A Hubot script to get anime data from kitsu",
+              ""
+            ],
+            [
+              "2",
+              "[@FabianBravoA](https://github.com/FabianBravoA)/[**ClaseNPM**](https://github.com/FabianBravoA/ClaseNPM)",
+              "Clase de NPM, instalación de bibliotecas como babel o ESLint",
+              ""
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**cellocator-parser**](https://github.com/lgaticaq/cellocator-parser)",
+              "Parse raw data from cellocator devices",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**chat-intent**](https://github.com/lopezjurip/chat-intent)",
+              "Parse phone number to create intents for chat apps",
+              ""
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**node-cne**](https://github.com/lgaticaq/node-cne)",
+              "Get fuel price from cne api",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**chilenify**](https://github.com/lopezjurip/chilenify)",
+              "Turn spanish to chilean flaite | How to create a npm module workshop example",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/chilenify)"
+            ],
+            [
+              "2",
+              "[@lgaticaq](https://github.com/lgaticaq)/[**hubot-memegeneration**](https://github.com/lgaticaq/hubot-memegeneration)",
+              "A Hubot script to meme generation with imgflip API",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**mathpad-bot**](https://github.com/lopezjurip/mathpad-bot)",
+              "Telegram MathPad Bot powered by mathjs.org",
+              "[:arrow_upper_right:](https://t.me/mathpad_bot)"
+            ],
+            [
+              "2",
+              "[@highercomve](https://github.com/highercomve)/[**jsx-to-shaco**](https://github.com/highercomve/jsx-to-shaco)",
+              "The JSX transformer to Shaco sintax",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**node-in-docker**](https://github.com/lopezjurip/node-in-docker)",
+              "Aplicación de ejemplo en Express.js con Docker",
+              "[:arrow_upper_right:](https://medium.com/@patriciolpezjuri/empezando-con-docker-86f388316551)"
+            ],
+            [
+              "2",
+              "[@highercomve](https://github.com/highercomve)/[**qioskoJS**](https://github.com/highercomve/qioskoJS)",
+              "Simple Rss Feed reader write on Javascript and publish on Chrome Web Store",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/kabjlcjjkpapbhnhdbjnjllllcbldgch?utm_source=chrome-ntp-icon)"
+            ],
+            [
+              "2",
+              "[@lopezjurip](https://github.com/lopezjurip)/[**koa-course**](https://github.com/lopezjurip/koa-course)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@highercomve](https://github.com/highercomve)/[**react-redux-todo**](https://github.com/highercomve/react-redux-todo)",
+              "Simple todo app with React and Redux",
+              "[:arrow_upper_right:](http://highercomve.github.io/react-redux-todo/)"
+            ],
+            [
+              "2",
+              "[@EstebanFuentealba](https://github.com/EstebanFuentealba)/[**node-flow-cl**](https://github.com/EstebanFuentealba/node-flow-cl)",
+              "NodeJS package para la integración de pagos con Flow (https://www.flow.cl)",
+              ""
+            ],
+            [
+              "2",
+              "[@highercomve](https://github.com/highercomve)/[**temiga**](https://github.com/highercomve/temiga)",
+              "",
+              "[:arrow_upper_right:](https://highercomve.github.io/temiga)"
+            ],
+            [
+              "2",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**choo-phaser**](https://github.com/YerkoPalma/choo-phaser)",
+              ":space_invader:",
+              "[:arrow_upper_right:](https://kids-demo.netlify.com)"
+            ],
+            [
+              "2",
+              "[@alangrafu](https://github.com/alangrafu)/[**WWW2012-mobile-webap…**](https://github.com/alangrafu/WWW2012-mobile-webapp)",
+              "Components and configuration for the mobile webapp for www2012",
+              "[:arrow_upper_right:](http://bit.ly/www2012)"
+            ],
+            [
+              "2",
+              "[@YerkoPalma](https://github.com/YerkoPalma)/[**mtalk**](https://github.com/YerkoPalma/mtalk)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tomas](https://github.com/tomas)/[**remover**](https://github.com/tomas/remover)",
+              "Stoppable recursive rmdir for Node.js.",
+              ""
+            ],
+            [
+              "2",
+              "[@palamago](https://github.com/palamago)/[**turismo-entre-rios**](https://github.com/palamago/turismo-entre-rios)",
+              "Simple d3 map showing tourist points in Entre Ríos, Argentina",
+              "[:arrow_upper_right:](http://arena.palamago.com.ar/entre-rios/)"
+            ],
+            [
+              "2",
+              "[@FabianBravoA](https://github.com/FabianBravoA)/[**2018-1-FirebaseAuthD…**](https://github.com/FabianBravoA/2018-1-FirebaseAuthDatabase)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tomas](https://github.com/tomas)/[**whenever**](https://github.com/tomas/whenever)",
+              "Delayed require() of Node.js modules.",
+              ""
+            ],
+            [
+              "2",
+              "[@tomas](https://github.com/tomas)/[**getset**](https://github.com/tomas/getset)",
+              "Smart configuration manager for Node.js client applications.",
+              ""
+            ],
+            [
+              "2",
+              "[@EstebanFuentealba](https://github.com/EstebanFuentealba)/[**SGSSO**](https://github.com/EstebanFuentealba/SGSSO)",
+              "",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }

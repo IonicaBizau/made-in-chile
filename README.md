@@ -12,6 +12,7 @@
 ## Contents
 
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -535,6 +536,7 @@
 2 | [@juanu](https://github.com/juanu)/[**CompMicroGenom**](https://github.com/juanu/CompMicroGenom) |  |
 2 | [@dansanti](https://github.com/dansanti)/[**global_discount**](https://github.com/dansanti/global_discount) | Descuento Global |
 2 | [@pedroburon](https://github.com/pedroburon)/[**python-envtools**](https://github.com/pedroburon/python-envtools) | Python toolchain for environment variables use |
+1 | [@LautaroParada]()/[**variance-test**](https://github.com/LautaroParada/variance-test) | Implementation of Lo and MacKinlay's statistical tests from A Non Random Walk Down Wall Street.
 
 ### R #
 

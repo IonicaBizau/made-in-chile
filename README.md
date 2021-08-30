@@ -427,6 +427,9 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@domingomery](https://github.com/domingomery)/[**Balu**](https://github.com/domingomery/Balu) | Toolbox Balu |
+1 | [@LautaroParada](https://github.com/LautaroParada)/[**Stochastic Valuation Processes**](https://github.com/LautaroParada/stochastic-processes#stochastic-valuation-processes) | Set of stochastic processes for prices and rates simulation, aiming to create a synthetic dataset for quantitative back-testing of trading strategies and asset allocations methods | [:arrow_upper_right:](https://www.mathworks.com/matlabcentral/fileexchange/76023-stochastic-valuation-processes)
+1 | [@LautaroParada](https://github.com/LautaroParada)/[**Indicadores Económicos**](https://github.com/LautaroParada/Indicadores-enconomicos) | Este es un cliente de la API que entrega los principales indicadores económicos para Chile en formato Table o struct. | [:arrow_upper_right:](https://la.mathworks.com/matlabcentral/fileexchange/75497-indicadores-enconomicos)
+
 
 ### Objective-C #
 
@@ -522,10 +525,13 @@
 5 | [@yangcht](https://github.com/yangcht)/[**radex_emcee**](https://github.com/yangcht/radex_emcee) | RADEX+emcee, LVG modelling with a MCMC approach, used in arXiv: 1709.04740 |
 5 | [@raliste](https://github.com/raliste)/[**Flaskito**](https://github.com/raliste/Flaskito) | A starter for Flesk big-application wanters, with a bit of Cython too! |
 5 | [@aaossa](https://github.com/aaossa)/[**Telegram-bot-in-Open…**](https://github.com/aaossa/Telegram-bot-in-OpenShift) | 3 console commands + 3 Telegram messages + 1 url = A Telegram bot  (OpenShift v2 is deprecated 😢) |
+4 | [@LautaroParada](https://github.com/LautaroParada)/[**Bolsa Santiago**](https://github.com/LautaroParada/bolsa-santiago#bolsa-de-santiago-startup-api) | Cliente de la API de la bolsa de Santiago. Este cliente estandariza la llamada de datos de la API mediante un SDK desarrollado en Python 🐍. |
+4 | [@LautaroParada](https://github.com/LautaroParada)/[**Variance Ratio Test**](https://github.com/LautaroParada/variance-test#variance-ratio-test-) | Statistical tests provide a descriptive tool for examing the stochastic evolution of prices through the time of a financial log price series. The implicit logic behind the test is to reject the Random Walk model (i.e., Efficient Markets Hypothesis) via comparing variances estimators at different sampling intervals. |
 4 | [@vkhemlan](https://github.com/vkhemlan)/[**BolsaTrabajo**](https://github.com/vkhemlan/BolsaTrabajo) |  |
 4 | [@ppizarror](https://github.com/ppizarror)/[**readme-generator**](https://github.com/ppizarror/readme-generator) | Generate a README.md file from a configuration file | [:arrow_upper_right:](http://ppizarror.com/readme-generator/)
 4 | [@dansanti](https://github.com/dansanti)/[**payment_webpay**](https://github.com/dansanti/payment_webpay) | Pasarela de Pagos Webpay para Odoo  | [:arrow_upper_right:](http://globalresponse.cl/)
 4 | [@agucova](https://github.com/agucova)/[**haveibeenpwned-pytho…**](https://github.com/agucova/haveibeenpwned-python) | A simple python client for the HaveIBeenPwned API 2.0 |
+3 | [@LautaroParada](https://github.com/LautaroParada)/[**QuickFS**](https://github.com/LautaroParada/quickfs#quickfs-api-sdk) | This library is the Python 🐍 unofficial SDK for the QuickFS REST API. It's intended to be used for data extraction for financial valuations. |
 3 | [@dansanti](https://github.com/dansanti)/[**l10n_co_fe**](https://github.com/dansanti/l10n_co_fe) | Facturación electrónica colombiana para Odoo | [:arrow_upper_right:](https://globalresponse.cl)
 3 | [@andrewcooke](https://github.com/andrewcooke)/[**id3img**](https://github.com/andrewcooke/id3img) | A simple web server that provides album art to MPDroid. | [:arrow_upper_right:](http://www.acooke.org/cute/CoverArtfo0.html)
 3 | [@hackingcl](https://github.com/hackingcl)/[**findshell**](https://github.com/hackingcl/findshell) | Buscando posibles backdoors en nuestro servidor |
@@ -536,7 +542,7 @@
 2 | [@juanu](https://github.com/juanu)/[**CompMicroGenom**](https://github.com/juanu/CompMicroGenom) |  |
 2 | [@dansanti](https://github.com/dansanti)/[**global_discount**](https://github.com/dansanti/global_discount) | Descuento Global |
 2 | [@pedroburon](https://github.com/pedroburon)/[**python-envtools**](https://github.com/pedroburon/python-envtools) | Python toolchain for environment variables use |
-1 | [@LautaroParada]()/[**variance-test**](https://github.com/LautaroParada/variance-test) | Implementation of Lo and MacKinlay's statistical tests from A Non Random Walk Down Wall Street.
+0 | [@LautaroParada](https://github.com/LautaroParada)/[**EOD Historical data SDK**](https://github.com/LautaroParada/eod-data#eod-historical-data-sdk) | This library is the Python 🐍 unofficial SDK for the EOD Historical data REST API. It's intended to be used for data extraction for financial valuations, macroeconomic analyses, sentiment analysis, option strategies, technical analysis, development of machine learning models, and more! |
 
 ### R #
 

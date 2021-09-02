@@ -12,7 +12,7 @@
     "projects"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -120,6 +120,12 @@
               "[@RafaelVidaurre](https://github.com/RafaelVidaurre)/[**yakuza**](https://github.com/RafaelVidaurre/yakuza)",
               "Highly scalable Node.js scraping framework for mobsters",
               ""
+            ],
+            [
+              "256",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**jQuery-Timelinr**](https://github.com/juanbrujo/jQuery-Timelinr)",
+              "This simple plugin helps you to give more life to the boring timelines. Supports horizontal and vertical layouts, and you can specify parameters for most attributes: speed, transparency, etc...",
+              "[:arrow_upper_right:](https://www.csslab.cl/2011/08/18/jquery-timelinr/)"
             ],
             [
               "206",
@@ -1431,6 +1437,12 @@
               "[@raulghm](https://github.com/raulghm)/[**Font-Awesome-Stylus**](https://github.com/raulghm/Font-Awesome-Stylus)",
               "Stylus port for font-awesome 4.7.0",
               "[:arrow_upper_right:](https://github.com/raulghm/Font-Awesome-Stylus)"
+            ],
+            [
+              "7",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**cleaver-beerjs**](https://github.com/juanbrujo/cleaver-beerjs)",
+              "Official theme for BeerJS Santiago meetups using Cleaver Slideshow",
+              "[:arrow_upper_right:](https://juanbrujo.github.io/cleaver-beerjs/)"
             ],
             [
               "6",
@@ -3439,6 +3451,12 @@
             "🌍"
           ],
           "rows": [
+            [
+              "50",
+              "[@juanbrujo](https://github.com/juanbrujo)/[**Talus**](https://github.com/juanbrujo/Talus)",
+              "Talus is a bash script to automate download & setup your Mac OS X development environment. The idea is to automate the tedious work of setting up a brand new Mac or start a fresh install of a recent formatted one, with special care of web development tools and configurations.",
+              "[:arrow_upper_right:](http://juanbrujo.github.io/Talus/)"
+            ],
             [
               "49",
               "[@jorgicio](https://github.com/jorgicio)/[**jorgicio-gentoo**](https://github.com/jorgicio/jorgicio-gentoo)",

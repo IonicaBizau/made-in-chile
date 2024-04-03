@@ -12,7 +12,7 @@
     "projects"
   ],
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -88,9 +88,9 @@
           "rows": [
             [
               "",
-              "[@gittogethers](https://github.com/gittogethers/)]/[**santiago**](https://github.com/gittogethers/santiago)",
+              "[@gittogethers](https://github.com/gittogethers/)/[**santiago**](https://github.com/gittogethers/santiago)",
               "GitTogether Santiago de Chile",
-              "[:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/"
+              "[:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/)"
             ]
           ]
         }

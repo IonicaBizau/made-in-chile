@@ -47,6 +47,7 @@
       },
       {
         "ul": [
+          "[Git](#git)",
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
@@ -72,6 +73,27 @@
           "[TeX](#tex)",
           "[VimL](#viml)"
         ]
+      },
+      {
+          "h3": "Git"
+      },
+      {
+          "table": {
+              "headers": [
+                  ":star2:",
+                  "Name",
+                  "Description",
+                  "🌍"
+              ],
+              "rows": [
+                  [
+                      "",
+                      "[@gittogethers](https://github.com/gittogethers/)]/[**santiago**](https://github.com/gittogethers/santiago)",
+                      "GitTogether Santiago de Chile",
+                      "[:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/"
+                  ]
+              ]
+          }
       },
       {
         "h3": "JavaScript #"

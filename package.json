@@ -12,7 +12,7 @@
     "projects"
   ],
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -75,25 +75,25 @@
         ]
       },
       {
-          "h3": "Git"
+        "h3": "Git"
       },
       {
-          "table": {
-              "headers": [
-                  ":star2:",
-                  "Name",
-                  "Description",
-                  "🌍"
-              ],
-              "rows": [
-                  [
-                      "",
-                      "[@gittogethers](https://github.com/gittogethers/)]/[**santiago**](https://github.com/gittogethers/santiago)",
-                      "GitTogether Santiago de Chile",
-                      "[:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/"
-                  ]
-              ]
-          }
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "",
+              "[@gittogethers](https://github.com/gittogethers/)]/[**santiago**](https://github.com/gittogethers/santiago)",
+              "GitTogether Santiago de Chile",
+              "[:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/"
+            ]
+          ]
+        }
       },
       {
         "h3": "JavaScript #"

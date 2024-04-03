@@ -84,7 +84,7 @@
 
 | :star2: | Name | Description | 🌍  |
 | ------- | ---- | ----------- | --- |
-|  | [@gittogethers](https://github.com/gittogethers/)]/[**santiago**](https://github.com/gittogethers/santiago) | GitTogether Santiago de Chile | [:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/ |
+|  | [@gittogethers](https://github.com/gittogethers/)/[**santiago**](https://github.com/gittogethers/santiago) | GitTogether Santiago de Chile | [:arrow_upper_right:](https://www.meetup.com/gittogether-santiago/) |
 
 ### JavaScript #
 
